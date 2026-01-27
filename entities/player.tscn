@@ -1,14 +1,17 @@
 [gd_scene format=3 uid="uid://bsmsajpk631q4"]
 
+[ext_resource type="Script" uid="uid://358hyu2v1no8" path="res://assets/scripts/player.gd" id="1_b0kkn"]
 [ext_resource type="Texture2D" uid="uid://d1hml41xkecd1" path="res://assets/sprites/player/Temp.png" id="1_merdl"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_u3f3p"]
 
 [node name="Node3D" type="CharacterBody3D" unique_id=1046025344]
+script = ExtResource("1_b0kkn")
+
+[node name="Sprite3D" type="Sprite3D" parent="." unique_id=333492969]
+transform = Transform3D(0.8, 0, 0, 0, 0.8, 0, 0, 0, 0.8, 0, 0, 0)
+billboard = 2
+texture = ExtResource("1_merdl")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=696139614]
 shape = SubResource("CapsuleShape3D_u3f3p")
-
-[node name="Sprite3D" type="Sprite3D" parent="CollisionShape3D" unique_id=333492969]
-billboard = 2
-texture = ExtResource("1_merdl")
