@@ -1,8 +1,8 @@
 [gd_scene format=3 uid="uid://bsmsajpk631q4"]
 
-[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_u3f3p"]
+[ext_resource type="Texture2D" uid="uid://d1hml41xkecd1" path="res://assets/sprites/player/Temp.png" id="1_merdl"]
 
-[sub_resource type="ImageTexture" id="ImageTexture_u3f3p"]
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_u3f3p"]
 
 [node name="Node3D" type="CharacterBody3D" unique_id=1046025344]
 
@@ -11,4 +11,4 @@ shape = SubResource("CapsuleShape3D_u3f3p")
 
 [node name="Sprite3D" type="Sprite3D" parent="CollisionShape3D" unique_id=333492969]
 billboard = 2
-texture = SubResource("ImageTexture_u3f3p")
+texture = ExtResource("1_merdl")
