@@ -1,0 +1,10 @@
+[gd_resource type="Environment" format=3 uid="uid://y5020on52enk"]
+
+[resource]
+background_mode = 1
+background_color = Color(0.40729788, 0.34911972, 0.66847456, 1)
+background_energy_multiplier = 0.55
+glow_enabled = true
+adjustment_brightness = 0.8
+adjustment_contrast = 1.14
+adjustment_saturation = 0.8
