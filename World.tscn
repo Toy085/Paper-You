@@ -3,6 +3,7 @@
 [ext_resource type="Environment" uid="uid://y5020on52enk" path="res://assets/world_environment.tres" id="1_c6gwx"]
 [ext_resource type="PackedScene" uid="uid://bsmsajpk631q4" path="res://entities/player.tscn" id="2_2dftf"]
 [ext_resource type="PackedScene" uid="uid://d28gvidgx2qny" path="res://entities/NPC.tscn" id="3_bcbcq"]
+[ext_resource type="PackedScene" uid="uid://bs80nevjsgliw" path="res://assets/UI-HUD.tscn" id="4_js7pq"]
 
 [node name="Node3D" type="Node3D" unique_id=40199556]
 
@@ -26,3 +27,5 @@ size = 8.836
 
 [node name="StaticBody3D" parent="." unique_id=1691833440 instance=ExtResource("3_bcbcq")]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 1.6726987, 0, -3.8586638)
+
+[node name="Control" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
