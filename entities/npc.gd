@@ -4,4 +4,4 @@ extends StaticBody3D
 
 func talk():
 	print("NPC says: ", dialogue_text)
-	# Add code here
+	GameEvents.request_dialogue.emit(dialogue_text)

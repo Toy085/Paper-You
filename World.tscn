@@ -3,7 +3,7 @@
 [ext_resource type="Environment" uid="uid://y5020on52enk" path="res://assets/world_environment.tres" id="1_c6gwx"]
 [ext_resource type="PackedScene" uid="uid://bsmsajpk631q4" path="res://entities/player.tscn" id="2_2dftf"]
 [ext_resource type="PackedScene" uid="uid://d28gvidgx2qny" path="res://entities/NPC.tscn" id="3_bcbcq"]
-[ext_resource type="PackedScene" uid="uid://bs80nevjsgliw" path="res://assets/UI-HUD.tscn" id="4_js7pq"]
+[ext_resource type="PackedScene" uid="uid://bs80nevjsgliw" path="res://assets/UI-dialogue.tscn" id="4_js7pq"]
 
 [node name="Node3D" type="Node3D" unique_id=40199556]
 
@@ -27,5 +27,7 @@ size = 8.836
 
 [node name="StaticBody3D" parent="." unique_id=1691833440 instance=ExtResource("3_bcbcq")]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 1.6726987, 0, -3.8586638)
+dialogue_text = "[b]TEST[/b] [font_size=44]Text[/font_size]. Very cool! [wave]Wavy[/wave]! I'm [shake]shaking[/shake] a lot.
+[color=#FF0000]H[/color][color=#E90015]e[/color][color=#D4002A]l[/color][color=#BF003F]l[/color][color=#AA0055]o[/color] [color=#7F007F]w[/color][color=#6A0094]o[/color][color=#5500AA]r[/color][color=#3F00BF]l[/color][color=#2A00D4]d[/color][color=#1500E9]![/color]"
 
 [node name="Control" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
