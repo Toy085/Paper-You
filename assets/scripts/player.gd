@@ -5,6 +5,7 @@ extends CharacterBody3D
 @export var flip_speed = 15.0 
 
 @onready var sprite = $Sprite3D
+@onready var interaction_area = $Interactions
 
 var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
 
@@ -34,3 +35,15 @@ func _physics_process(delta):
 		velocity.z = move_toward(velocity.z, 0, speed)
 
 	move_and_slide()
+
+func _input(event):
+	if event.is_action_pressed("interact"):
+		check_for_npcs()
+
+func check_for_npcs():
+	var overlapping_areas = interaction_area.get_overlapping_areas()
+	for area in overlapping_areas:
+		var parent = area.get_parent()
+		if parent.is_in_group("npcs"):
+			parent.talk()
+			return
