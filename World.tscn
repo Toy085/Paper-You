@@ -20,5 +20,5 @@ environment = ExtResource("1_c6gwx")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.85, 0)
 
 [node name="Camera3D" type="Camera3D" parent="Node3D" unique_id=1876353810]
-transform = Transform3D(1, 0, 0, 0, 0.7071068, 0.7071068, 0, -0.7071068, 0.7071068, 0.03145218, 2.15, 3.1411302)
+transform = Transform3D(1, 0, 0, 0, 0.7071068, 0.7071068, 0, -0.7071068, 0.7071068, 0, 2, 4)
 size = 8.836

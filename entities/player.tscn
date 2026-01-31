@@ -5,6 +5,8 @@
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_u3f3p"]
 
+[sub_resource type="SphereShape3D" id="SphereShape3D_b0kkn"]
+
 [node name="Node3D" type="CharacterBody3D" unique_id=1046025344]
 script = ExtResource("1_b0kkn")
 
@@ -15,3 +17,9 @@ texture = ExtResource("1_merdl")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=696139614]
 shape = SubResource("CapsuleShape3D_u3f3p")
+
+[node name="Area3D" type="Area3D" parent="." unique_id=562244890]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D" unique_id=885778617]
+shape = SubResource("SphereShape3D_b0kkn")
