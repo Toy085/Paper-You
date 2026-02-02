@@ -48,6 +48,5 @@ func _unhandled_input(event):
 			
 func finish_dialogue():
 	panel.hide()
-	# Wait a frame to prevent re-triggering the NPC
 	await get_tree().process_frame 
 	GameEvents.dialogue_finished.emit()

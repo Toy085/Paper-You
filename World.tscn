@@ -29,7 +29,7 @@ size = 8.836
 
 [node name="StaticBody3D" parent="." unique_id=1691833440 instance=ExtResource("3_bcbcq")]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 1.6726987, 0, -3.8586638)
-dialogue_text = "It's very [hint=\"Winter init?\"][wave]cold[/wave][/hint] and I'm [shake]shaking[/shake] a lot."
+dialogue_lines = Array[String](["Hello adventurer!", "and Hello World!", "I'm an NPC and welcome to...", "...", "I don't know [shake rate=20.0 level=5 connected=1]where we are[/shake] actually."])
 
 [node name="Control" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
 
