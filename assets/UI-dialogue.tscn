@@ -1,0 +1,36 @@
+[gd_scene format=3 uid="uid://bs80nevjsgliw"]
+
+[ext_resource type="Script" uid="uid://c7i630mkoqiqd" path="res://assets/ui_dialogue.gd" id="1_8rxhb"]
+
+[node name="Control" type="Control" unique_id=623046072]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8rxhb")
+
+[node name="Dialogue" type="Panel" parent="." unique_id=2083772841]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -212.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="Dialogue" unique_id=1251069102]
+layout_mode = 0
+offset_left = 22.0
+offset_top = 22.0
+offset_right = 1129.0
+offset_bottom = 294.0
+theme_override_font_sizes/normal_font_size = 32
+theme_override_font_sizes/bold_font_size = 32
+theme_override_font_sizes/bold_italics_font_size = 32
+theme_override_font_sizes/italics_font_size = 32
+bbcode_enabled = true
+text = "[b]TEST[/b] [font_size=44]Text[/font_size]. Very cool! [wave]Wavy[/wave]! I'm [shake]shaking[/shake] a lot.
+[color=#FF0000]H[/color][color=#E90015]e[/color][color=#D4002A]l[/color][color=#BF003F]l[/color][color=#AA0055]o[/color] [color=#7F007F]w[/color][color=#6A0094]o[/color][color=#5500AA]r[/color][color=#3F00BF]l[/color][color=#2A00D4]d[/color][color=#1500E9]![/color]"
