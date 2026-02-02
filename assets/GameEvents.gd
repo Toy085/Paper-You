@@ -11,3 +11,4 @@ func _process(delta: float) -> void:
 	pass
 
 signal request_dialogue(message: String)
+signal dialogue_finished

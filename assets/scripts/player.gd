@@ -6,8 +6,15 @@ extends CharacterBody3D
 
 @onready var sprite = $Sprite3D
 @onready var interaction_area = $Interactions
+@onready var camera = get_viewport().get_camera_3d()
 
 var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
+var in_dialogue = false
+var default_rotation_x: float
+
+func _ready():
+	GameEvents.dialogue_finished.connect(_on_dialogue_finished)
+	default_rotation_x = camera.rotation.x
 
 func _physics_process(delta):
 	if not is_on_floor():
@@ -38,11 +45,17 @@ func _physics_process(delta):
 		sprite.scale.y = lerp(sprite.scale.y, 0.75, delta * 6)
 	elif is_on_floor():
 		sprite.scale.y = lerp(sprite.scale.y, 1.0, delta * 6)
-	
-	move_and_slide()
 
-func _input(event):
-	if event.is_action_pressed("interact"):
+	var target_fov = 50.0 if in_dialogue else 75.0
+	var target_angle = (default_rotation_x + deg_to_rad(15)) if in_dialogue else default_rotation_x
+	camera.fov = lerp(camera.fov, target_fov, delta * 5.0)
+	camera.rotation.x = lerp_angle(camera.rotation.x, target_angle, delta * 5.0)
+	
+	if not in_dialogue:
+		move_and_slide()
+
+func _unhandled_input(event):
+	if event.is_action_pressed("interact") && not in_dialogue:
 		check_for_npcs()
 
 func check_for_npcs():
@@ -51,4 +64,9 @@ func check_for_npcs():
 		var parent = area.get_parent()
 		if parent.is_in_group("npcs"):
 			parent.talk()
+			in_dialogue = true
+			velocity = Vector3.ZERO
 			return
+
+func _on_dialogue_finished():
+	in_dialogue = false
