@@ -1,7 +1,10 @@
 extends StaticBody3D
 
-@export_multiline var dialogue_text: String = "Hello World!"
+@export var dialogue_lines: Array[String] = [
+	"Hello there!",
+	"And Hello World",
+	"I'm an NPC"
+]
 
 func talk():
-	print("NPC says: ", dialogue_text)
-	GameEvents.request_dialogue.emit(dialogue_text)
+	GameEvents.request_dialogue.emit(dialogue_lines)
