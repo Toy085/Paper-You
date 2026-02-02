@@ -21,7 +21,7 @@ func show_dialogue(content: String):
 	
 	current_tween = create_tween()
 	# Calculate speed based on text length
-	var duration = content.length() * 0.02
+	var duration = content.length() * 0.03
 	
 	current_tween.tween_property(text_label, "visible_ratio", 1.0, duration)
 	current_tween.finished.connect(_on_typing_finished)

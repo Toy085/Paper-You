@@ -32,5 +32,5 @@ theme_override_font_sizes/bold_font_size = 32
 theme_override_font_sizes/bold_italics_font_size = 32
 theme_override_font_sizes/italics_font_size = 32
 bbcode_enabled = true
-text = "[b]TEST[/b] [font_size=44]Text[/font_size]. Very cool! [wave]Wavy[/wave]! I'm [shake]shaking[/shake] a lot.
+text = "[b]TEST[/b] Very cool! [wave]Wavy[/wave]! I'm [shake]shaking[/shake] a lot.
 [color=#FF0000]H[/color][color=#E90015]e[/color][color=#D4002A]l[/color][color=#BF003F]l[/color][color=#AA0055]o[/color] [color=#7F007F]w[/color][color=#6A0094]o[/color][color=#5500AA]r[/color][color=#3F00BF]l[/color][color=#2A00D4]d[/color][color=#1500E9]![/color]"
