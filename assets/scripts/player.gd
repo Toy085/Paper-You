@@ -4,18 +4,21 @@ extends CharacterBody3D
 @export var jump_velocity = 6.0
 @export var flip_speed = 15.0
 
-@onready var sprite = $Sprite3D
+@onready var sprite = $PlayerSprite
 @onready var interaction_area = $Interactions
+@onready var anim_player = $AnimationPlayer
+@onready var hammer_area = $HammerSprite/HammerArea
 @onready var camera = get_viewport().get_camera_3d()
 
 var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
 var in_dialogue = false
 var default_rotation_x: float
+var is_hammering = false
 
 func _ready():
 	GameEvents.dialogue_finished.connect(_on_dialogue_finished)
 	default_rotation_x = camera.rotation.x
-	Input.mouse_mode = Input.MOUSE_MODE_HIDDEN 
+	Input.mouse_mode = Input.MOUSE_MODE_HIDDEN
 
 func _physics_process(delta):
 	if not is_on_floor():
@@ -52,12 +55,15 @@ func _physics_process(delta):
 	camera.fov = lerp(camera.fov, target_fov, delta * 5.0)
 	camera.rotation.x = lerp_angle(camera.rotation.x, target_angle, delta * 5.0)
 	
-	if not in_dialogue:
+	if not in_dialogue && not is_hammering:
 		move_and_slide()
 
 func _unhandled_input(event):
 	if event.is_action_pressed("interact") && not in_dialogue && is_on_floor():
-		check_for_npcs()
+		if check_for_npcs():
+			return
+		elif not in_dialogue:
+			perform_hammer()
 
 func check_for_npcs():
 	var overlapping_areas = interaction_area.get_overlapping_areas()
@@ -68,6 +74,15 @@ func check_for_npcs():
 			in_dialogue = true
 			velocity = Vector3.ZERO
 			return
+	return 0
+	
+func perform_hammer():
+	is_hammering = true
+	velocity = Vector3.ZERO
+	anim_player.play("hammer_swing")
+	
+	await anim_player.animation_finished
+	is_hammering = false
 
 func _on_dialogue_finished():
 	in_dialogue = false

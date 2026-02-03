@@ -2,16 +2,128 @@
 
 [ext_resource type="Script" uid="uid://358hyu2v1no8" path="res://assets/scripts/player.gd" id="1_b0kkn"]
 [ext_resource type="Texture2D" uid="uid://d1hml41xkecd1" path="res://assets/sprites/player/Temp.png" id="1_merdl"]
+[ext_resource type="Texture2D" uid="uid://kl5qs5fevffn" path="res://assets/sprites/player/Temp-hammer.png" id="3_e4p34"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_u3f3p"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_b0kkn"]
 radius = 1.0
 
+[sub_resource type="BoxShape3D" id="BoxShape3D_e4p34"]
+size = Vector3(2.3849792, 1.3458252, 1)
+
+[sub_resource type="Animation" id="Animation_rfe5m"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("HammerSprite:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("HammerSprite:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("HammerSprite:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0.605, 0, 0)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("HammerSprite/HammerArea:monitoring")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [false]
+}
+
+[sub_resource type="Animation" id="Animation_e4p34"]
+resource_name = "hammer_swing"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("HammerSprite:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 1,
+"values": [true, false]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("HammerSprite:rotation")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.5, 1),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0, 0, -0.88406163), Vector3(0, 0, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("HammerSprite:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 0.5, 1),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Vector3(0.605, 0, 0), Vector3(0.605, -0.49268812, 0), Vector3(0.605, 0, 0)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("HammerSprite/HammerArea:monitoring")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0, 0.45, 0.55, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 1,
+"values": [false, true, false, false]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_rfe5m"]
+_data = {
+&"RESET": SubResource("Animation_rfe5m"),
+&"hammer_swing": SubResource("Animation_e4p34")
+}
+
 [node name="Node3D" type="CharacterBody3D" unique_id=1046025344]
 script = ExtResource("1_b0kkn")
 
-[node name="Sprite3D" type="Sprite3D" parent="." unique_id=333492969]
+[node name="PlayerSprite" type="Sprite3D" parent="." unique_id=333492969]
 transform = Transform3D(0.8, 0, 0, 0, 0.8, 0, 0, 0, 0.8, 0, 0, 0)
 billboard = 2
 texture = ExtResource("1_merdl")
@@ -23,3 +135,18 @@ shape = SubResource("CapsuleShape3D_u3f3p")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="Interactions" unique_id=885778617]
 shape = SubResource("SphereShape3D_b0kkn")
+
+[node name="HammerSprite" type="Sprite3D" parent="." unique_id=1296189191]
+transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, 0.605, 0, 0)
+texture = ExtResource("3_e4p34")
+
+[node name="HammerArea" type="Area3D" parent="HammerSprite" unique_id=1698794339]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.392949, 0.65767825, 0)
+monitoring = false
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="HammerSprite/HammerArea" unique_id=661555535]
+transform = Transform3D(0.7071068, -0.7071068, 0, 0.7071068, 0.7071068, 0, 0, 0, 1, -0.15794277, 0.12227845, 0)
+shape = SubResource("BoxShape3D_e4p34")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1849919251]
+libraries/ = SubResource("AnimationLibrary_rfe5m")
