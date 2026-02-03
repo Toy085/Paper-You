@@ -15,6 +15,7 @@ var default_rotation_x: float
 func _ready():
 	GameEvents.dialogue_finished.connect(_on_dialogue_finished)
 	default_rotation_x = camera.rotation.x
+	Input.mouse_mode = Input.MOUSE_MODE_HIDDEN 
 
 func _physics_process(delta):
 	if not is_on_floor():
