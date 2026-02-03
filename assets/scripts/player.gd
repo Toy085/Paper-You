@@ -55,7 +55,7 @@ func _physics_process(delta):
 		move_and_slide()
 
 func _unhandled_input(event):
-	if event.is_action_pressed("interact") && not in_dialogue:
+	if event.is_action_pressed("interact") && not in_dialogue && is_on_floor():
 		check_for_npcs()
 
 func check_for_npcs():

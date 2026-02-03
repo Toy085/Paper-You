@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://88bs3y857v1y" path="res://entities/npc.gd" id="1_ov7kt"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_57psa"]
-size = Vector3(0.82263184, 1, 0.34472656)
+size = Vector3(0.73869324, 0.6795654, 0.34472656)
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_ov7kt"]
 radius = 1.0
@@ -15,7 +15,7 @@ script = ExtResource("1_ov7kt")
 [node name="character-male-a" parent="." unique_id=2101764391 instance=ExtResource("1_57psa")]
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1506375919]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.0036239624, 0.3397827, 0)
 shape = SubResource("BoxShape3D_57psa")
 
 [node name="Area3D" type="Area3D" parent="." unique_id=1271571107]
