@@ -108,10 +108,10 @@ tracks/3/path = NodePath("HammerSprite/HammerArea:monitoring")
 tracks/3/interp = 1
 tracks/3/loop_wrap = true
 tracks/3/keys = {
-"times": PackedFloat32Array(0, 0.45, 0.55, 1),
-"transitions": PackedFloat32Array(1, 1, 1, 1),
+"times": PackedFloat32Array(0, 0.1, 0.5),
+"transitions": PackedFloat32Array(1, 1, 1),
 "update": 1,
-"values": [false, true, false, false]
+"values": [false, true, false]
 }
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_rfe5m"]
@@ -140,7 +140,7 @@ shape = SubResource("SphereShape3D_b0kkn")
 transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, 0.605, 0, 0)
 texture = ExtResource("3_e4p34")
 
-[node name="HammerArea" type="Area3D" parent="HammerSprite" unique_id=1698794339]
+[node name="HammerArea" type="Area3D" parent="HammerSprite" unique_id=1698794339 groups=["player"]]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.392949, 0.65767825, 0)
 monitoring = false
 

@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://bqha6tslxatg6"]
+
+[ext_resource type="Script" uid="uid://dedodaxs33qx6" path="res://entities/coin.gd" id="1_a182a"]
+[ext_resource type="PackedScene" uid="uid://di7va505jkvs2" path="res://assets/kenney_platformer-kit/Models/FBX format/coin-gold.fbx" id="1_cg25x"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_cw8rb"]
+
+[node name="Coin" type="Area3D" unique_id=2058404170]
+script = ExtResource("1_a182a")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1677738056]
+shape = SubResource("SphereShape3D_cw8rb")
+
+[node name="coinModell" parent="." unique_id=1024737686 instance=ExtResource("1_cg25x")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.2, 0)

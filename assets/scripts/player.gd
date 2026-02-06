@@ -74,15 +74,21 @@ func check_for_npcs():
 			in_dialogue = true
 			velocity = Vector3.ZERO
 			return
-	return 0
+	return false
 	
 func perform_hammer():
+	if is_hammering: return
 	is_hammering = true
 	velocity = Vector3.ZERO
 	anim_player.play("hammer_swing")
 	
 	await anim_player.animation_finished
 	is_hammering = false
+
+func _on_hammer_area_area_entered(area: Area3D):
+	var body = area.get_parent()
+	if body.has_method("on_hammer_hit"):
+		body.on_hammer_hit()
 
 func _on_dialogue_finished():
 	in_dialogue = false
