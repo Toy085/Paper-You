@@ -8,6 +8,7 @@
 [ext_resource type="ArrayMesh" uid="uid://5i1rlefxy2n3" path="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-hexagon.obj" id="6_p1v5b"]
 [ext_resource type="PackedScene" uid="uid://b40e56kfo2y0y" path="res://assets/blocks/basic block.tscn" id="7_wygdx"]
 [ext_resource type="PackedScene" uid="uid://bqha6tslxatg6" path="res://entities/coin.tscn" id="8_bah7m"]
+[ext_resource type="PackedScene" uid="uid://dpxwtsqxj6p70" path="res://assets/UI-HUD.tscn" id="9_fv4w7"]
 
 [node name="Node3D" type="Node3D" unique_id=40199556]
 
@@ -33,8 +34,6 @@ size = 8.836
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 1.6726987, 0, -3.8586638)
 dialogue_lines = Array[String](["Hello adventurer!", "and Hello World!", "I'm an NPC and welcome to...", "...", "I don't know [shake rate=20.0 level=5 connected=1]where we are[/shake] actually."])
 
-[node name="Control" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
-
 [node name="block-grass-hexagon" parent="." unique_id=23039632 instance=ExtResource("5_eu7l1")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.5659184, 4.7683716e-07, 0.25411177)
 
@@ -47,3 +46,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.8849435, 0.5499997, 2.58872
 
 [node name="Area3D" parent="." unique_id=2058404170 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 1.1046152)
+
+[node name="Dialoue UI" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
+
+[node name="HUD UI" parent="." unique_id=1968767550 instance=ExtResource("9_fv4w7")]

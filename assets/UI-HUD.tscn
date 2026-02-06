@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://dpxwtsqxj6p70"]
+
+[ext_resource type="Script" uid="uid://c5y7velniplcs" path="res://assets/ui_hud.gd" id="1_hk0vw"]
+
+[node name="HUD UI" type="Control" unique_id=1968767550]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_hk0vw")
+
+[node name="coinText" type="RichTextLabel" parent="." unique_id=455970123]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 89.0
+grow_horizontal = 2
+theme_override_font_sizes/normal_font_size = 54
+bbcode_enabled = true
+text = "Coins: [wave]0[/wave]"
