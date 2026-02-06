@@ -7,7 +7,7 @@ func _ready():
 	_update_coin_ui(GameEvents.total_money)
 
 func _update_coin_ui(amount: int):
-	coin_label.text = "Coins: [wave amp=50.0]" + str(amount) + "[/wave]"
+	coin_label.text = "Coins: [wave amp=30.0]" + str(amount) + "[/wave]"
 	
 	# Coin text pop animation
 	var tween = create_tween()

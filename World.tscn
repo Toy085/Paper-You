@@ -59,6 +59,36 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 2.926
 [node name="Area3D5" parent="." unique_id=1962192119 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 3.5456295)
 
+[node name="Area3D6" parent="." unique_id=342935919 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 1.1046152)
+
+[node name="Area3D7" parent="." unique_id=45583825 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 1.7566133)
+
+[node name="Area3D8" parent="." unique_id=472082426 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 2.3397207)
+
+[node name="Area3D9" parent="." unique_id=490890066 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 2.926743)
+
+[node name="Area3D10" parent="." unique_id=1854967617 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 3.5456295)
+
+[node name="Area3D11" parent="." unique_id=1275168914 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 1.1046152)
+
+[node name="Area3D12" parent="." unique_id=1791493496 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 1.7566133)
+
+[node name="Area3D13" parent="." unique_id=18569880 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 2.3397207)
+
+[node name="Area3D14" parent="." unique_id=991522851 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 2.926743)
+
+[node name="Area3D15" parent="." unique_id=1623033831 instance=ExtResource("8_bah7m")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 3.5456295)
+
 [node name="Dialoue UI" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
 
 [node name="HUD UI" parent="." unique_id=1968767550 instance=ExtResource("9_fv4w7")]
