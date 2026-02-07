@@ -13,11 +13,13 @@ config_version=5
 config/name="Paper YOU"
 run/main_scene="uid://dwlyc6fm43xv"
 config/features=PackedStringArray("4.6", "GL Compatibility")
+boot_splash/show_image=false
 config/icon="res://icon.svg"
 
 [autoload]
 
 GameEvents="*uid://ddodsx8ps68pq"
+UiHud="*uid://dpxwtsqxj6p70"
 
 [editor]
 

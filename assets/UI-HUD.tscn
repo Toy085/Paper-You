@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://dpxwtsqxj6p70"]
 
 [ext_resource type="Script" uid="uid://c5y7velniplcs" path="res://assets/ui_hud.gd" id="1_hk0vw"]
+[ext_resource type="Script" uid="uid://o44hn6w38kin" path="res://assets/pause_menu.gd" id="2_8bfw4"]
 
 [node name="HUD UI" type="Control" unique_id=1968767550]
 layout_mode = 3
@@ -10,6 +11,32 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_hk0vw")
+
+[node name="PauseMenu" type="CanvasLayer" parent="." unique_id=1378039091]
+process_mode = 3
+script = ExtResource("2_8bfw4")
+
+[node name="ColorRect" type="ColorRect" parent="PauseMenu" unique_id=891486769]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(1, 1, 1, 0.78431374)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PauseMenu/ColorRect" unique_id=1524842471]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="PauseMenu/ColorRect/VBoxContainer" unique_id=296015480]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+text = "Resume"
 
 [node name="coinText" type="RichTextLabel" parent="." unique_id=455970123]
 layout_mode = 1
