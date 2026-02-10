@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Paper YOU"
-run/main_scene="uid://dwlyc6fm43xv"
+run/main_scene="uid://d3ea300sei326"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 boot_splash/show_image=false
 config/icon="res://icon.svg"

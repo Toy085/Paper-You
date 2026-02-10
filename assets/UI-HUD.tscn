@@ -47,3 +47,5 @@ grow_horizontal = 2
 theme_override_font_sizes/normal_font_size = 54
 bbcode_enabled = true
 text = "Coins: [wave]0[/wave]"
+
+[connection signal="pressed" from="PauseMenu/ColorRect/VBoxContainer/Button" to="PauseMenu" method="_on_resume_pressed"]

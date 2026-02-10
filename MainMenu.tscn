@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://lrqebw06k8s3" path="res://main_menu.gd" id="1_i26rj"]
 [ext_resource type="Texture2D" uid="uid://yokyv8rtf5f7" path="res://Skjermbilde 2026-02-10 192417.png" id="2_eiy7p"]
+[ext_resource type="PackedScene" uid="uid://dwlyc6fm43xv" path="res://World.tscn" id="2_h7a2f"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_i26rj"]
 texture = ExtResource("2_eiy7p")
@@ -15,6 +16,7 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_i26rj")
+start_level = ExtResource("2_h7a2f")
 
 [node name="Panel" type="Panel" parent="." unique_id=1775565139]
 layout_mode = 1
@@ -69,3 +71,6 @@ layout_mode = 2
 size_flags_vertical = 3
 text = "Exit
 "
+
+[connection signal="pressed" from="VBoxContainer/StartButton" to="." method="_on_start_button_pressed"]
+[connection signal="pressed" from="VBoxContainer/QuitButton" to="." method="_on_quit_button_pressed"]
