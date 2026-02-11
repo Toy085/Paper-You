@@ -10,6 +10,7 @@ extends CharacterBody3D
 @onready var hammer_area = $HammerSprite/HammerArea
 @onready var camera = get_viewport().get_camera_3d()
 
+
 var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
 var in_dialogue = false
 var default_rotation_x: float
