@@ -48,7 +48,7 @@ func _physics_process(delta):
 	if not is_on_floor():
 		sprite.scale.y = lerp(sprite.scale.y, 0.75, delta * 6)
 	elif is_on_floor():
-		sprite.scale.y = lerp(sprite.scale.y, 1.0, delta * 6)
+		sprite.scale.y = lerp(sprite.scale.y, 0.8, delta * 6)
 
 	var target_fov = 50.0 if in_dialogue else 75.0
 	var target_angle = (default_rotation_x + deg_to_rad(15)) if in_dialogue else default_rotation_x
