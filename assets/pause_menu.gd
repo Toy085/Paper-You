@@ -3,7 +3,7 @@ extends CanvasLayer
 func _ready():
 	hide() # Start hidden
 
-func _input(event):
+func _unhandled_input(event):
 	if event.is_action_pressed("ui_cancel"): # Usually Esc
 		toggle_pause()
 
@@ -12,8 +12,8 @@ func toggle_pause():
 	get_tree().paused = new_pause_state
 	
 	if new_pause_state:
-		show()
 		Input.mouse_mode = Input.MOUSE_MODE_VISIBLE
+		show()
 	else:
 		hide()
 		Input.mouse_mode = Input.MOUSE_MODE_HIDDEN

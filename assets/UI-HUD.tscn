@@ -24,15 +24,15 @@ grow_horizontal = 2
 grow_vertical = 2
 color = Color(1, 1, 1, 0.78431374)
 
-[node name="VBoxContainer" type="VBoxContainer" parent="PauseMenu/ColorRect" unique_id=1524842471]
-layout_mode = 1
+[node name="VBoxContainer" type="VBoxContainer" parent="PauseMenu" unique_id=1524842471]
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+alignment = 1
 
-[node name="Button" type="Button" parent="PauseMenu/ColorRect/VBoxContainer" unique_id=296015480]
+[node name="Button" type="Button" parent="PauseMenu/VBoxContainer" unique_id=296015480]
 layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 4
@@ -46,6 +46,6 @@ offset_bottom = 89.0
 grow_horizontal = 2
 theme_override_font_sizes/normal_font_size = 54
 bbcode_enabled = true
-text = "Coins: [wave]0[/wave]"
+text = "Coins: [wave][/wave]"
 
-[connection signal="pressed" from="PauseMenu/ColorRect/VBoxContainer/Button" to="PauseMenu" method="_on_resume_pressed"]
+[connection signal="pressed" from="PauseMenu/VBoxContainer/Button" to="PauseMenu" method="_on_resume_pressed"]

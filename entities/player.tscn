@@ -120,7 +120,7 @@ _data = {
 &"hammer_swing": SubResource("Animation_e4p34")
 }
 
-[node name="Node3D" type="CharacterBody3D" unique_id=1046025344 groups=["player"]]
+[node name="Player" type="CharacterBody3D" unique_id=1046025344 groups=["player"]]
 script = ExtResource("1_b0kkn")
 
 [node name="PlayerSprite" type="Sprite3D" parent="." unique_id=333492969]

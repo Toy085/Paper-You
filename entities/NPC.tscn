@@ -9,7 +9,7 @@ size = Vector3(0.73869324, 0.6795654, 0.34472656)
 [sub_resource type="SphereShape3D" id="SphereShape3D_ov7kt"]
 radius = 1.0
 
-[node name="StaticBody3D" type="StaticBody3D" unique_id=1691833440 groups=["npcs"]]
+[node name="NPC" type="StaticBody3D" unique_id=1691833440 groups=["npcs"]]
 script = ExtResource("1_ov7kt")
 
 [node name="character-male-a" parent="." unique_id=2101764391 instance=ExtResource("1_57psa")]

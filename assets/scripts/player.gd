@@ -58,7 +58,7 @@ func _physics_process(delta):
 	if not in_dialogue && not is_hammering:
 		move_and_slide()
 
-func _unhandled_input(event):
+func _input(event):
 	if event.is_action_pressed("interact") && not in_dialogue && is_on_floor():
 		if check_for_npcs():
 			return
