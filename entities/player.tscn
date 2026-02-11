@@ -150,3 +150,5 @@ shape = SubResource("BoxShape3D_e4p34")
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=1849919251]
 libraries/ = SubResource("AnimationLibrary_rfe5m")
+
+[connection signal="area_entered" from="HammerSprite/HammerArea" to="." method="_on_hammer_area_area_entered"]

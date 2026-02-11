@@ -46,6 +46,6 @@ offset_bottom = 89.0
 grow_horizontal = 2
 theme_override_font_sizes/normal_font_size = 54
 bbcode_enabled = true
-text = "Coins: [wave][/wave]"
+text = "Coins: [wave]0[/wave]"
 
 [connection signal="pressed" from="PauseMenu/VBoxContainer/Button" to="PauseMenu" method="_on_resume_pressed"]

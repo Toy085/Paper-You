@@ -1,5 +1,7 @@
 [gd_scene format=3 uid="uid://b40e56kfo2y0y"]
 
+[ext_resource type="Script" uid="uid://ddruiobswujur" path="res://assets/blocks/basic_block.gd" id="1_l5rpa"]
+
 [sub_resource type="BoxShape3D" id="BoxShape3D_aswpi"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_l5rpa"]
@@ -8,7 +10,8 @@
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_6xlx3"]
 
-[node name="StaticBody3D" type="StaticBody3D" unique_id=1323311606]
+[node name="Block" type="StaticBody3D" unique_id=1323311606]
+script = ExtResource("1_l5rpa")
 
 [node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=274738703]
 shape = SubResource("BoxShape3D_aswpi")
