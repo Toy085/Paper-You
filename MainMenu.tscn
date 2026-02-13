@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://d3ea300sei326"]
 
-[ext_resource type="Script" uid="uid://lrqebw06k8s3" path="res://main_menu.gd" id="1_i26rj"]
+[ext_resource type="Script" uid="uid://lrqebw06k8s3" path="res://assets/scripts/main_menu.gd" id="1_eiy7p"]
 [ext_resource type="Texture2D" uid="uid://yokyv8rtf5f7" path="res://Skjermbilde 2026-02-10 192417.png" id="2_eiy7p"]
 [ext_resource type="PackedScene" uid="uid://dwlyc6fm43xv" path="res://World.tscn" id="2_h7a2f"]
 
@@ -15,7 +15,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_i26rj")
+script = ExtResource("1_eiy7p")
 start_level = ExtResource("2_h7a2f")
 
 [node name="Panel" type="Panel" parent="." unique_id=1775565139]

@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://dpxwtsqxj6p70"]
 
-[ext_resource type="Script" uid="uid://c5y7velniplcs" path="res://assets/ui_hud.gd" id="1_hk0vw"]
-[ext_resource type="Script" uid="uid://o44hn6w38kin" path="res://assets/pause_menu.gd" id="2_8bfw4"]
+[ext_resource type="Script" path="res://assets/scripts/ui_hud.gd" id="1_8bfw4"]
+[ext_resource type="Script" uid="uid://o44hn6w38kin" path="res://assets/scripts/pause_menu.gd" id="2_jfkqx"]
 
 [node name="HUD UI" type="Control" unique_id=1968767550]
 layout_mode = 3
@@ -10,11 +10,11 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_hk0vw")
+script = ExtResource("1_8bfw4")
 
 [node name="PauseMenu" type="CanvasLayer" parent="." unique_id=1378039091]
 process_mode = 3
-script = ExtResource("2_8bfw4")
+script = ExtResource("2_jfkqx")
 
 [node name="ColorRect" type="ColorRect" parent="PauseMenu" unique_id=891486769]
 anchors_preset = 15
@@ -48,4 +48,4 @@ theme_override_font_sizes/normal_font_size = 54
 bbcode_enabled = true
 text = "Coins: [wave]0[/wave]"
 
-[connection signal="pressed" from="PauseMenu/VBoxContainer/Button" to="PauseMenu" method="_on_resume_pressed"]
+[connection signal="pressed" from="PauseMenu/VBoxContainer/Button" to="PauseMenu" method="toggle_pause"]

@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://d28gvidgx2qny"]
 
-[ext_resource type="PackedScene" uid="uid://qro8oaabp7oj" path="res://assets/kenney_mini-characters/Models/FBX format/character-male-a.fbx" id="1_57psa"]
-[ext_resource type="Script" uid="uid://88bs3y857v1y" path="res://entities/npc.gd" id="1_ov7kt"]
+[ext_resource type="PackedScene" uid="uid://qro8oaabp7oj" path="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/character-male-a.fbx" id="1_57psa"]
+[ext_resource type="Script" path="res://assets/scripts/npc.gd" id="1_ov7kt"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_57psa"]
 size = Vector3(0.73869324, 0.6795654, 0.34472656)

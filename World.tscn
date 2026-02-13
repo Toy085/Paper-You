@@ -4,8 +4,6 @@
 [ext_resource type="PackedScene" uid="uid://bsmsajpk631q4" path="res://entities/player.tscn" id="2_2dftf"]
 [ext_resource type="PackedScene" uid="uid://d28gvidgx2qny" path="res://entities/NPC.tscn" id="3_bcbcq"]
 [ext_resource type="PackedScene" uid="uid://bs80nevjsgliw" path="res://assets/UI-dialogue.tscn" id="4_js7pq"]
-[ext_resource type="PackedScene" uid="uid://15j8dbrhyrk6" path="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-hexagon.fbx" id="5_eu7l1"]
-[ext_resource type="ArrayMesh" uid="uid://5i1rlefxy2n3" path="res://assets/kenney_platformer-kit/Models/OBJ format/block-grass-hexagon.obj" id="6_p1v5b"]
 [ext_resource type="PackedScene" uid="uid://b40e56kfo2y0y" path="res://assets/blocks/basic block.tscn" id="7_wygdx"]
 [ext_resource type="PackedScene" uid="uid://bqha6tslxatg6" path="res://entities/coin.tscn" id="8_bah7m"]
 [ext_resource type="PackedScene" uid="uid://dpxwtsqxj6p70" path="res://assets/UI-HUD.tscn" id="9_fv4w7"]
@@ -32,68 +30,78 @@ size = 8.836
 
 [node name="NPC" parent="." unique_id=1691833440 instance=ExtResource("3_bcbcq")]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 1.6726987, 0, -3.8586638)
-dialogue_lines = Array[String](["Hello adventurer!", "and Hello World!", "I'm an NPC and welcome to...", "...", "I don't know [shake rate=20.0 level=5 connected=1]where we are[/shake] actually."])
-
-[node name="block-grass-hexagon" parent="." unique_id=23039632 instance=ExtResource("5_eu7l1")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.5659184, 4.7683716e-07, 0.25411177)
-
-[node name="CSGMesh3D" type="CSGMesh3D" parent="block-grass-hexagon" unique_id=1168478295]
-use_collision = true
-mesh = ExtResource("6_p1v5b")
+script = null
 
 [node name="Block" parent="." unique_id=1323311606 instance=ExtResource("7_wygdx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.8849435, 0.5499997, 2.5887294)
 
 [node name="Dialoue UI" parent="." unique_id=623046072 instance=ExtResource("4_js7pq")]
+script = null
 
 [node name="Coins" type="Node3D" parent="." unique_id=490997152]
 
 [node name="Coin" parent="Coins" unique_id=2058404170 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 1.1046152)
+script = null
 
 [node name="Coin2" parent="Coins" unique_id=2075928529 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 1.7566133)
+script = null
 
 [node name="Coin3" parent="Coins" unique_id=930305398 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 2.3397207)
+script = null
 
 [node name="Coin4" parent="Coins" unique_id=1531236542 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 2.926743)
+script = null
 
 [node name="Coin5" parent="Coins" unique_id=1962192119 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.4518585, 0.24999972, 3.5456295)
+script = null
 
 [node name="Coin6" parent="Coins" unique_id=342935919 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 1.1046152)
+script = null
 
 [node name="Coin7" parent="Coins" unique_id=45583825 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 1.7566133)
+script = null
 
 [node name="Coin8" parent="Coins" unique_id=472082426 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 2.3397207)
+script = null
 
 [node name="Coin9" parent="Coins" unique_id=490890066 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 2.926743)
+script = null
 
 [node name="Coin10" parent="Coins" unique_id=1854967617 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.0982122, 0.24999972, 3.5456295)
+script = null
 
 [node name="Coin11" parent="Coins" unique_id=1275168914 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 1.1046152)
+script = null
 
 [node name="Coin12" parent="Coins" unique_id=1791493496 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 1.7566133)
+script = null
 
 [node name="Coin13" parent="Coins" unique_id=18569880 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 2.3397207)
+script = null
 
 [node name="Coin14" parent="Coins" unique_id=991522851 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 2.926743)
+script = null
 
 [node name="Coin15" parent="Coins" unique_id=1623033831 instance=ExtResource("8_bah7m")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.21924973, 0.24999972, 3.5456295)
+script = null
 
 [node name="HUD UI" parent="." unique_id=1968767550 instance=ExtResource("9_fv4w7")]
+script = null
 
 [node name="Block2" parent="." unique_id=1637220513 instance=ExtResource("7_wygdx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.7454627, 0.5500002, 4.08942)

@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://bqha6tslxatg6"]
 
-[ext_resource type="Script" uid="uid://dedodaxs33qx6" path="res://entities/coin.gd" id="1_a182a"]
-[ext_resource type="PackedScene" uid="uid://di7va505jkvs2" path="res://assets/kenney_platformer-kit/Models/FBX format/coin-gold.fbx" id="1_cg25x"]
+[ext_resource type="Script" path="res://assets/scripts/coin.gd" id="1_a182a"]
+[ext_resource type="PackedScene" uid="uid://di7va505jkvs2" path="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/coin-gold.fbx" id="1_cg25x"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_cw8rb"]
 

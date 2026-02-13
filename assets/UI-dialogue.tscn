@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bs80nevjsgliw"]
 
-[ext_resource type="Script" uid="uid://c7i630mkoqiqd" path="res://assets/ui_dialogue.gd" id="1_8rxhb"]
+[ext_resource type="Script" path="res://assets/scripts/ui_dialogue.gd" id="1_8rxhb"]
 
 [node name="Dialoue UI" type="Control" unique_id=623046072]
 layout_mode = 3
