@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dsija6fgnnw3t"
-path="res://.godot/imported/pot_small.glb-65771202fd673b116c29ae0a0ec76736.scn"
+path="res://.godot/imported/pot_small.glb-41ce312e184180db1f784b2676f07667.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/pot_small.glb"
-dest_files=["res://.godot/imported/pot_small.glb-65771202fd673b116c29ae0a0ec76736.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/pot_small.glb"
+dest_files=["res://.godot/imported/pot_small.glb-41ce312e184180db1f784b2676f07667.scn"]
 
 [params]
 

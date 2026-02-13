@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://shx8q5ntn7nl"
-path="res://.godot/imported/roof-flat-border-corner-slanted-passage.fbx-6a065095a11916f2ad77e265499b6f5b.scn"
+path="res://.godot/imported/roof-flat-border-corner-slanted-passage.fbx-f401f00dfdee37595b6e6ebcea5a23ae.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-flat-border-corner-slanted-passage.fbx"
-dest_files=["res://.godot/imported/roof-flat-border-corner-slanted-passage.fbx-6a065095a11916f2ad77e265499b6f5b.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/roof-flat-border-corner-slanted-passage.fbx"
+dest_files=["res://.godot/imported/roof-flat-border-corner-slanted-passage.fbx-f401f00dfdee37595b6e6ebcea5a23ae.scn"]
 
 [params]
 

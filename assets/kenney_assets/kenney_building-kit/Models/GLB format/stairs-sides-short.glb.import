@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://kkpjqf4tpk8b"
-path="res://.godot/imported/stairs-sides-short.glb-7225130cb543fb8020c2df1a106ddc1b.scn"
+path="res://.godot/imported/stairs-sides-short.glb-7d97e16f48786e221533abfbccb6cfdd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/stairs-sides-short.glb"
-dest_files=["res://.godot/imported/stairs-sides-short.glb-7225130cb543fb8020c2df1a106ddc1b.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/stairs-sides-short.glb"
+dest_files=["res://.godot/imported/stairs-sides-short.glb-7d97e16f48786e221533abfbccb6cfdd.scn"]
 
 [params]
 

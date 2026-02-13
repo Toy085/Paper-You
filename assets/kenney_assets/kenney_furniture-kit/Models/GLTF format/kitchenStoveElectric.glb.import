@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://csemo5bfx3355"
-path="res://.godot/imported/kitchenStoveElectric.glb-69bba32c5c32fd7c6270e9c1fc6b16f8.scn"
+path="res://.godot/imported/kitchenStoveElectric.glb-7ac3a545f0b08a8f4d26f55d375418ad.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/kitchenStoveElectric.glb"
-dest_files=["res://.godot/imported/kitchenStoveElectric.glb-69bba32c5c32fd7c6270e9c1fc6b16f8.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/kitchenStoveElectric.glb"
+dest_files=["res://.godot/imported/kitchenStoveElectric.glb-7ac3a545f0b08a8f4d26f55d375418ad.scn"]
 
 [params]
 

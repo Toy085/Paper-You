@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1ld2d01do70"
-path="res://.godot/imported/aid-crutch.fbx-c9fcde27b044c55f1f69408c5ee61d9f.scn"
+path="res://.godot/imported/aid-crutch.fbx-13b07c94be71ba25583eab0f6d3f74d4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/FBX format/aid-crutch.fbx"
-dest_files=["res://.godot/imported/aid-crutch.fbx-c9fcde27b044c55f1f69408c5ee61d9f.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/aid-crutch.fbx"
+dest_files=["res://.godot/imported/aid-crutch.fbx-13b07c94be71ba25583eab0f6d3f74d4.scn"]
 
 [params]
 

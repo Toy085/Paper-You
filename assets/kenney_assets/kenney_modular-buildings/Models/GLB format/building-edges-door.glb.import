@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvn8jge5r52ln"
-path="res://.godot/imported/building-edges-door.glb-bfb956debe7b1958452584219edf26de.scn"
+path="res://.godot/imported/building-edges-door.glb-d6ff6813bde2d348b59f2bfe97505462.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-edges-door.glb"
-dest_files=["res://.godot/imported/building-edges-door.glb-bfb956debe7b1958452584219edf26de.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-edges-door.glb"
+dest_files=["res://.godot/imported/building-edges-door.glb-d6ff6813bde2d348b59f2bfe97505462.scn"]
 
 [params]
 

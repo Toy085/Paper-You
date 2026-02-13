@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c4xt424ssvph0"
-path="res://.godot/imported/computerMouse.glb-a3ce726cd15c6b399d468e3128c35ccd.scn"
+path="res://.godot/imported/computerMouse.glb-6f1a50fd4ec977b540130fd2a2f2bfac.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/computerMouse.glb"
-dest_files=["res://.godot/imported/computerMouse.glb-a3ce726cd15c6b399d468e3128c35ccd.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/computerMouse.glb"
+dest_files=["res://.godot/imported/computerMouse.glb-6f1a50fd4ec977b540130fd2a2f2bfac.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cpi3h7k1l58lj"
-path="res://.godot/imported/wall-corner-column-small-bottom.fbx-89b6f09b5ea3c68bdeeec1451a104bad.scn"
+path="res://.godot/imported/wall-corner-column-small-bottom.fbx-32b4457691ae40be5df5aeb26d9fa1a4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/wall-corner-column-small-bottom.fbx"
-dest_files=["res://.godot/imported/wall-corner-column-small-bottom.fbx-89b6f09b5ea3c68bdeeec1451a104bad.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/wall-corner-column-small-bottom.fbx"
+dest_files=["res://.godot/imported/wall-corner-column-small-bottom.fbx-32b4457691ae40be5df5aeb26d9fa1a4.scn"]
 
 [params]
 

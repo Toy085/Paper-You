@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c5vgvto4ftdtf"
-path="res://.godot/imported/bathroomSinkSquare.glb-0b799a2c6fc7e95c48f86d45f1571722.scn"
+path="res://.godot/imported/bathroomSinkSquare.glb-c5085ff098d5e1f58defcf4129aec56d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bathroomSinkSquare.glb"
-dest_files=["res://.godot/imported/bathroomSinkSquare.glb-0b799a2c6fc7e95c48f86d45f1571722.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bathroomSinkSquare.glb"
+dest_files=["res://.godot/imported/bathroomSinkSquare.glb-c5085ff098d5e1f58defcf4129aec56d.scn"]
 
 [params]
 

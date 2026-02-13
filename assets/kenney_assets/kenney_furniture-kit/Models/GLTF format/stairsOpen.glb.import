@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwkcv0nmqvy2j"
-path="res://.godot/imported/stairsOpen.glb-e764564d6bffad0d556e8a5aba65b178.scn"
+path="res://.godot/imported/stairsOpen.glb-314561a8985602acbba9808b55672c78.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/stairsOpen.glb"
-dest_files=["res://.godot/imported/stairsOpen.glb-e764564d6bffad0d556e8a5aba65b178.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/stairsOpen.glb"
+dest_files=["res://.godot/imported/stairsOpen.glb-314561a8985602acbba9808b55672c78.scn"]
 
 [params]
 

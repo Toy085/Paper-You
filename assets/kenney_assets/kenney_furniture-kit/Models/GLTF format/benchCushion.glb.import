@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cbev2wclhx6vj"
-path="res://.godot/imported/benchCushion.glb-1cfdd162af7bbe1b968e6e922a376b57.scn"
+path="res://.godot/imported/benchCushion.glb-749fa5014da6b641d83565a3d63c804f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/benchCushion.glb"
-dest_files=["res://.godot/imported/benchCushion.glb-1cfdd162af7bbe1b968e6e922a376b57.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/benchCushion.glb"
+dest_files=["res://.godot/imported/benchCushion.glb-749fa5014da6b641d83565a3d63c804f.scn"]
 
 [params]
 

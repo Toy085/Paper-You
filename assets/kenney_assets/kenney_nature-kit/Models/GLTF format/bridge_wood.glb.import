@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bcug4cwsfwnbd"
-path="res://.godot/imported/bridge_wood.glb-abfc91ddda84ee164bfb49f3a60ef873.scn"
+path="res://.godot/imported/bridge_wood.glb-af5a263e6852937500d12d554f37bd03.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_wood.glb"
-dest_files=["res://.godot/imported/bridge_wood.glb-abfc91ddda84ee164bfb49f3a60ef873.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/bridge_wood.glb"
+dest_files=["res://.godot/imported/bridge_wood.glb-af5a263e6852937500d12d554f37bd03.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://36bv5ec6c217"
-path="res://.godot/imported/building-windows-sills.glb-f47ef89e1bf110bc9a45655c67968a38.scn"
+path="res://.godot/imported/building-windows-sills.glb-75da183ae2e3537af5804d7e3cd21dc5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-windows-sills.glb"
-dest_files=["res://.godot/imported/building-windows-sills.glb-f47ef89e1bf110bc9a45655c67968a38.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-windows-sills.glb"
+dest_files=["res://.godot/imported/building-windows-sills.glb-75da183ae2e3537af5804d7e3cd21dc5.scn"]
 
 [params]
 

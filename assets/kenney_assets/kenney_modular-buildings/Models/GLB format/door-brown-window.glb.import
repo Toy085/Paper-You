@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://duoexfrq3uorw"
-path="res://.godot/imported/door-brown-window.glb-1e6a183f5cba634c4ba7984d9016e611.scn"
+path="res://.godot/imported/door-brown-window.glb-37d1407c3721eab248aa17ddcf500728.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/door-brown-window.glb"
-dest_files=["res://.godot/imported/door-brown-window.glb-1e6a183f5cba634c4ba7984d9016e611.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/door-brown-window.glb"
+dest_files=["res://.godot/imported/door-brown-window.glb-37d1407c3721eab248aa17ddcf500728.scn"]
 
 [params]
 

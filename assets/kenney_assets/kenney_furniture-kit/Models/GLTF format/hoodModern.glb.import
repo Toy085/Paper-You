@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cb0q6ssxo8t2t"
-path="res://.godot/imported/hoodModern.glb-ab6fa7606313cfc73b14b6039d21d0e8.scn"
+path="res://.godot/imported/hoodModern.glb-6567b54becd0f19dc3d2391c14aa85eb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/hoodModern.glb"
-dest_files=["res://.godot/imported/hoodModern.glb-ab6fa7606313cfc73b14b6039d21d0e8.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/hoodModern.glb"
+dest_files=["res://.godot/imported/hoodModern.glb-6567b54becd0f19dc3d2391c14aa85eb.scn"]
 
 [params]
 

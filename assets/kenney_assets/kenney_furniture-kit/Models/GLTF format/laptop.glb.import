@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgydhtc2c70s3"
-path="res://.godot/imported/laptop.glb-3de01119ddc6dbc63a960f0005e32712.scn"
+path="res://.godot/imported/laptop.glb-327a113c5555c00e84689dd956f6b33e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/laptop.glb"
-dest_files=["res://.godot/imported/laptop.glb-3de01119ddc6dbc63a960f0005e32712.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/laptop.glb"
+dest_files=["res://.godot/imported/laptop.glb-327a113c5555c00e84689dd956f6b33e.scn"]
 
 [params]
 

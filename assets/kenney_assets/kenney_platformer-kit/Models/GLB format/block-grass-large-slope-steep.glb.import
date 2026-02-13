@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwgeojjs6vnam"
-path="res://.godot/imported/block-grass-large-slope-steep.glb-ef2ff57b8412b1028d8042ad19651057.scn"
+path="res://.godot/imported/block-grass-large-slope-steep.glb-f1a67fa2def8359313b53b61ed4a7c81.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-large-slope-steep.glb"
-dest_files=["res://.godot/imported/block-grass-large-slope-steep.glb-ef2ff57b8412b1028d8042ad19651057.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/block-grass-large-slope-steep.glb"
+dest_files=["res://.godot/imported/block-grass-large-slope-steep.glb-f1a67fa2def8359313b53b61ed4a7c81.scn"]
 
 [params]
 

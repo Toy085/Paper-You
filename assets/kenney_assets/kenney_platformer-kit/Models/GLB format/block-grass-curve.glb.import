@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dni4u4jjxjvq8"
-path="res://.godot/imported/block-grass-curve.glb-44e9a6ebc3f738265dd1b0878bb5b876.scn"
+path="res://.godot/imported/block-grass-curve.glb-56f64cd1165b207caec99a4644d9c80d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-curve.glb"
-dest_files=["res://.godot/imported/block-grass-curve.glb-44e9a6ebc3f738265dd1b0878bb5b876.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/block-grass-curve.glb"
+dest_files=["res://.godot/imported/block-grass-curve.glb-56f64cd1165b207caec99a4644d9c80d.scn"]
 
 [params]
 

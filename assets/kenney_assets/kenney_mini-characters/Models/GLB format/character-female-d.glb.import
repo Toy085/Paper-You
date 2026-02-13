@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://datllhekvs8p4"
-path="res://.godot/imported/character-female-d.glb-b66d47ea1658099b04e2b9d8bd2ec869.scn"
+path="res://.godot/imported/character-female-d.glb-8145fb714715513c1a19de422d66d174.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/character-female-d.glb"
-dest_files=["res://.godot/imported/character-female-d.glb-b66d47ea1658099b04e2b9d8bd2ec869.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/character-female-d.glb"
+dest_files=["res://.godot/imported/character-female-d.glb-8145fb714715513c1a19de422d66d174.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://btrumsihycwx"
-path="res://.godot/imported/character-male-d.glb-44c5febef11f56be31f1c2d40b4965a2.scn"
+path="res://.godot/imported/character-male-d.glb-aa618f8214c8ecc18b0831cca7d1a11f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/character-male-d.glb"
-dest_files=["res://.godot/imported/character-male-d.glb-44c5febef11f56be31f1c2d40b4965a2.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/character-male-d.glb"
+dest_files=["res://.godot/imported/character-male-d.glb-aa618f8214c8ecc18b0831cca7d1a11f.scn"]
 
 [params]
 

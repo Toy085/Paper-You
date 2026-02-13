@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://douqrvgt77iq7"
-path="res://.godot/imported/building-windows-high-middle.glb-005a58a87478b09a3ce0d92f4d255d47.scn"
+path="res://.godot/imported/building-windows-high-middle.glb-872df8f1c4b78a43493e3796423cdf44.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-windows-high-middle.glb"
-dest_files=["res://.godot/imported/building-windows-high-middle.glb-005a58a87478b09a3ce0d92f4d255d47.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-windows-high-middle.glb"
+dest_files=["res://.godot/imported/building-windows-high-middle.glb-872df8f1c4b78a43493e3796423cdf44.scn"]
 
 [params]
 

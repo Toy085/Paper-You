@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ck0pqxs5kx5vl"
-path="res://.godot/imported/rugDoormat.glb-7a2adb302c895a3003d566268de499c0.scn"
+path="res://.godot/imported/rugDoormat.glb-fc3b0cbc7113c31c62870593ec4467c2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/rugDoormat.glb"
-dest_files=["res://.godot/imported/rugDoormat.glb-7a2adb302c895a3003d566268de499c0.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/rugDoormat.glb"
+dest_files=["res://.godot/imported/rugDoormat.glb-fc3b0cbc7113c31c62870593ec4467c2.scn"]
 
 [params]
 

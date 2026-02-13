@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://fmnpqq0anvly"
-path="res://.godot/imported/character-female-e.fbx-c094b71d23ecbcb8706732c0f2a5de35.scn"
+path="res://.godot/imported/character-female-e.fbx-e7bc9d1cf2eb9a423694043ddbdf68b8.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/FBX format/character-female-e.fbx"
-dest_files=["res://.godot/imported/character-female-e.fbx-c094b71d23ecbcb8706732c0f2a5de35.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/character-female-e.fbx"
+dest_files=["res://.godot/imported/character-female-e.fbx-e7bc9d1cf2eb9a423694043ddbdf68b8.scn"]
 
 [params]
 

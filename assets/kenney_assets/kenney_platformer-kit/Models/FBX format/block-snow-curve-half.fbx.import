@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cqyh8o45rqrov"
-path="res://.godot/imported/block-snow-curve-half.fbx-64a6a3c9af9935e5b15894dc0801ca19.scn"
+path="res://.godot/imported/block-snow-curve-half.fbx-a932e2acc756ffc245e84a0228c73678.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-curve-half.fbx"
-dest_files=["res://.godot/imported/block-snow-curve-half.fbx-64a6a3c9af9935e5b15894dc0801ca19.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/block-snow-curve-half.fbx"
+dest_files=["res://.godot/imported/block-snow-curve-half.fbx-a932e2acc756ffc245e84a0228c73678.scn"]
 
 [params]
 

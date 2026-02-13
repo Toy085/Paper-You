@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cksehx630j3k0"
-path="res://.godot/imported/ground_pathCross.glb-6446f1f09d85037e64bafe9c93778db3.scn"
+path="res://.godot/imported/ground_pathCross.glb-d7da823fadfcb7cf7ceb7cc36e10e3d2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_pathCross.glb"
-dest_files=["res://.godot/imported/ground_pathCross.glb-6446f1f09d85037e64bafe9c93778db3.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_pathCross.glb"
+dest_files=["res://.godot/imported/ground_pathCross.glb-d7da823fadfcb7cf7ceb7cc36e10e3d2.scn"]
 
 [params]
 

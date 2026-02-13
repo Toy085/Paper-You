@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cfqfwfqrat1rp"
-path="res://.godot/imported/door-white-window.glb-16bba72fc2f353b74de5d9e58bbacff0.scn"
+path="res://.godot/imported/door-white-window.glb-0ea58025288174396227bc7d4b839b6f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/door-white-window.glb"
-dest_files=["res://.godot/imported/door-white-window.glb-16bba72fc2f353b74de5d9e58bbacff0.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/door-white-window.glb"
+dest_files=["res://.godot/imported/door-white-window.glb-0ea58025288174396227bc7d4b839b6f.scn"]
 
 [params]
 

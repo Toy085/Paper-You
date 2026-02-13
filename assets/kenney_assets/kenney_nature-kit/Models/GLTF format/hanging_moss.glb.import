@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bg870mitvoqhv"
-path="res://.godot/imported/hanging_moss.glb-783758a8c82da65166fc444b02d723ea.scn"
+path="res://.godot/imported/hanging_moss.glb-9192ff1112a08e93a762430783781708.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/hanging_moss.glb"
-dest_files=["res://.godot/imported/hanging_moss.glb-783758a8c82da65166fc444b02d723ea.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/hanging_moss.glb"
+dest_files=["res://.godot/imported/hanging_moss.glb-9192ff1112a08e93a762430783781708.scn"]
 
 [params]
 

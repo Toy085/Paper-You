@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://byrw7ql8tb480"
-path="res://.godot/imported/stoolBarSquare.glb-7b47d026eff50830a53158d805c4cd02.scn"
+path="res://.godot/imported/stoolBarSquare.glb-68054c3c915f59a0c6c75822fa5e8754.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/stoolBarSquare.glb"
-dest_files=["res://.godot/imported/stoolBarSquare.glb-7b47d026eff50830a53158d805c4cd02.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/stoolBarSquare.glb"
+dest_files=["res://.godot/imported/stoolBarSquare.glb-68054c3c915f59a0c6c75822fa5e8754.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dp70vinei171y"
-path="res://.godot/imported/chairModernCushion.glb-fe6427e55878c6af74b3f0f5321b03f8.scn"
+path="res://.godot/imported/chairModernCushion.glb-557113380180bd41b470beab193543ff.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/chairModernCushion.glb"
-dest_files=["res://.godot/imported/chairModernCushion.glb-fe6427e55878c6af74b3f0f5321b03f8.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/chairModernCushion.glb"
+dest_files=["res://.godot/imported/chairModernCushion.glb-557113380180bd41b470beab193543ff.scn"]
 
 [params]
 

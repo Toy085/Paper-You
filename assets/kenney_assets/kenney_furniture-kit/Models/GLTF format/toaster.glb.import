@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cspy3phucesyc"
-path="res://.godot/imported/toaster.glb-78e08b6f2127ee26cfec0906c63a59ff.scn"
+path="res://.godot/imported/toaster.glb-94245cab18d97f937cae4a62a884b3fc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/toaster.glb"
-dest_files=["res://.godot/imported/toaster.glb-78e08b6f2127ee26cfec0906c63a59ff.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/toaster.glb"
+dest_files=["res://.godot/imported/toaster.glb-94245cab18d97f937cae4a62a884b3fc.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cry8as2d82032"
-path="res://.godot/imported/bathroomMirror.glb-f3ad1774d5ef0c1dce8ae1a2dc238053.scn"
+path="res://.godot/imported/bathroomMirror.glb-17fe9df5e978e72ea44e243bf685b909.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bathroomMirror.glb"
-dest_files=["res://.godot/imported/bathroomMirror.glb-f3ad1774d5ef0c1dce8ae1a2dc238053.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bathroomMirror.glb"
+dest_files=["res://.godot/imported/bathroomMirror.glb-17fe9df5e978e72ea44e243bf685b909.scn"]
 
 [params]
 

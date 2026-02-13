@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bb1xp820ff8wi"
-path="res://.godot/imported/wall-corner-diagonal.glb-24a8b3ef81f0bb1b447b88882f6c8b28.scn"
+path="res://.godot/imported/wall-corner-diagonal.glb-fa80a6aba96465629945759429905757.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/wall-corner-diagonal.glb"
-dest_files=["res://.godot/imported/wall-corner-diagonal.glb-24a8b3ef81f0bb1b447b88882f6c8b28.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/wall-corner-diagonal.glb"
+dest_files=["res://.godot/imported/wall-corner-diagonal.glb-fa80a6aba96465629945759429905757.scn"]
 
 [params]
 

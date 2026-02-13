@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://i3uxue40w5ny"
-path="res://.godot/imported/door-rotate-large.fbx-61124bde431db1059ab6836ec7d204ad.scn"
+path="res://.godot/imported/door-rotate-large.fbx-d62abf79ff24c353eab481a8b2eb6d6c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/door-rotate-large.fbx"
-dest_files=["res://.godot/imported/door-rotate-large.fbx-61124bde431db1059ab6836ec7d204ad.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/door-rotate-large.fbx"
+dest_files=["res://.godot/imported/door-rotate-large.fbx-d62abf79ff24c353eab481a8b2eb6d6c.scn"]
 
 [params]
 

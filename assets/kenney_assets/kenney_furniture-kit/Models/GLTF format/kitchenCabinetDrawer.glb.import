@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bodhh8bybaqv2"
-path="res://.godot/imported/kitchenCabinetDrawer.glb-3cfa354bedf58a2019b9aa6d676f8090.scn"
+path="res://.godot/imported/kitchenCabinetDrawer.glb-386f10da70fa474ad2a22a2f5434396a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/kitchenCabinetDrawer.glb"
-dest_files=["res://.godot/imported/kitchenCabinetDrawer.glb-3cfa354bedf58a2019b9aa6d676f8090.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/kitchenCabinetDrawer.glb"
+dest_files=["res://.godot/imported/kitchenCabinetDrawer.glb-386f10da70fa474ad2a22a2f5434396a.scn"]
 
 [params]
 

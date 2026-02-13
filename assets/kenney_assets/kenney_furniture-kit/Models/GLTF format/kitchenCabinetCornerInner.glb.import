@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dnhch668qh34v"
-path="res://.godot/imported/kitchenCabinetCornerInner.glb-3da984f42b6eff320ddfb8cabccd1c8d.scn"
+path="res://.godot/imported/kitchenCabinetCornerInner.glb-553967365a8e1a7c57365fe81c60ba56.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/kitchenCabinetCornerInner.glb"
-dest_files=["res://.godot/imported/kitchenCabinetCornerInner.glb-3da984f42b6eff320ddfb8cabccd1c8d.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/kitchenCabinetCornerInner.glb"
+dest_files=["res://.godot/imported/kitchenCabinetCornerInner.glb-553967365a8e1a7c57365fe81c60ba56.scn"]
 
 [params]
 

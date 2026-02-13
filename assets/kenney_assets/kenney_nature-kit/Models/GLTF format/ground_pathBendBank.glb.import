@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bn01gf6ige27k"
-path="res://.godot/imported/ground_pathBendBank.glb-a322688483ff09bc7a1be9dd6159c2e7.scn"
+path="res://.godot/imported/ground_pathBendBank.glb-fdde2840be5caf4c4753872236b73c9f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_pathBendBank.glb"
-dest_files=["res://.godot/imported/ground_pathBendBank.glb-a322688483ff09bc7a1be9dd6159c2e7.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_pathBendBank.glb"
+dest_files=["res://.godot/imported/ground_pathBendBank.glb-fdde2840be5caf4c4753872236b73c9f.scn"]
 
 [params]
 

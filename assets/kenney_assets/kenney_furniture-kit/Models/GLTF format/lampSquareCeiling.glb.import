@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://duwwfdnlc3646"
-path="res://.godot/imported/lampSquareCeiling.glb-83badf70dcbda59e6627425f671afb1c.scn"
+path="res://.godot/imported/lampSquareCeiling.glb-3e2c29621a14064a47750c8e8e47f8c3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/lampSquareCeiling.glb"
-dest_files=["res://.godot/imported/lampSquareCeiling.glb-83badf70dcbda59e6627425f671afb1c.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/lampSquareCeiling.glb"
+dest_files=["res://.godot/imported/lampSquareCeiling.glb-3e2c29621a14064a47750c8e8e47f8c3.scn"]
 
 [params]
 

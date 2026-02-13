@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://w1clfkjvbt21"
-path="res://.godot/imported/stairs-closed.fbx-9194e5370518cb2d15e83ed3baa6407a.scn"
+path="res://.godot/imported/stairs-closed.fbx-cbe74f50043630404e22908352f572af.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/stairs-closed.fbx"
-dest_files=["res://.godot/imported/stairs-closed.fbx-9194e5370518cb2d15e83ed3baa6407a.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/stairs-closed.fbx"
+dest_files=["res://.godot/imported/stairs-closed.fbx-cbe74f50043630404e22908352f572af.scn"]
 
 [params]
 

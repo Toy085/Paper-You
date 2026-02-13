@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bkfw0dfyjvxsn"
-path="res://.godot/imported/ground_riverTile.glb-ecc1964ab9d0ca3026b3091af5469c73.scn"
+path="res://.godot/imported/ground_riverTile.glb-a6b610879273995d89bbbbd84cbbc5d3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverTile.glb"
-dest_files=["res://.godot/imported/ground_riverTile.glb-ecc1964ab9d0ca3026b3091af5469c73.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_riverTile.glb"
+dest_files=["res://.godot/imported/ground_riverTile.glb-a6b610879273995d89bbbbd84cbbc5d3.scn"]
 
 [params]
 

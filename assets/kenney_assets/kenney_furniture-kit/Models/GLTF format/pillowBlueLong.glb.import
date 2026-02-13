@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://blthymxbpk28y"
-path="res://.godot/imported/pillowBlueLong.glb-00d446d2181b99bb639c6ac42118c9ec.scn"
+path="res://.godot/imported/pillowBlueLong.glb-e98bfbc7e44d3f20cbf4ac3d8a4e4c1e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/pillowBlueLong.glb"
-dest_files=["res://.godot/imported/pillowBlueLong.glb-00d446d2181b99bb639c6ac42118c9ec.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/pillowBlueLong.glb"
+dest_files=["res://.godot/imported/pillowBlueLong.glb-e98bfbc7e44d3f20cbf4ac3d8a4e4c1e.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bkcnfyu2fga7f"
-path="res://.godot/imported/character-oozi.glb-4462152b0a86cfa112bd242576af4b4e.scn"
+path="res://.godot/imported/character-oozi.glb-3a15f107de50328a7c0300b9d6af3382.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/character-oozi.glb"
-dest_files=["res://.godot/imported/character-oozi.glb-4462152b0a86cfa112bd242576af4b4e.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/character-oozi.glb"
+dest_files=["res://.godot/imported/character-oozi.glb-3a15f107de50328a7c0300b9d6af3382.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dcrmpuhiil8af"
-path="res://.godot/imported/plating.glb-fbcf97555e48cb7ee0a120d3e7a1d7af.scn"
+path="res://.godot/imported/plating.glb-57c9ccfd032dafeea974bc267679921e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/plating.glb"
-dest_files=["res://.godot/imported/plating.glb-fbcf97555e48cb7ee0a120d3e7a1d7af.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/plating.glb"
+dest_files=["res://.godot/imported/plating.glb-57c9ccfd032dafeea974bc267679921e.scn"]
 
 [params]
 

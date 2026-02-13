@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d2vp5ajxxk4dt"
-path="res://.godot/imported/border-high.glb-34e21cc4789c56dab28b02b682b65fb6.scn"
+path="res://.godot/imported/border-high.glb-bc67b5b3bf0753d2f8340d9caeed4e43.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/border-high.glb"
-dest_files=["res://.godot/imported/border-high.glb-34e21cc4789c56dab28b02b682b65fb6.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/border-high.glb"
+dest_files=["res://.godot/imported/border-high.glb-bc67b5b3bf0753d2f8340d9caeed4e43.scn"]
 
 [params]
 

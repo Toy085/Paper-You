@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c3m3wu5r7g82o"
-path="res://.godot/imported/wallWindowSlide.glb-e13f84147e43dba28f320c2c743a2f49.scn"
+path="res://.godot/imported/wallWindowSlide.glb-68ef6e91e4d9d239c1598364d3b9aa20.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/wallWindowSlide.glb"
-dest_files=["res://.godot/imported/wallWindowSlide.glb-e13f84147e43dba28f320c2c743a2f49.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/wallWindowSlide.glb"
+dest_files=["res://.godot/imported/wallWindowSlide.glb-68ef6e91e4d9d239c1598364d3b9aa20.scn"]
 
 [params]
 

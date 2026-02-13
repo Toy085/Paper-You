@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bld1qa2ndic4c"
-path="res://.godot/imported/window-white-round-top.glb-53de8f05c5da6c8eef3b7e8071937597.scn"
+path="res://.godot/imported/window-white-round-top.glb-874fde6a30e59384bfd673993febac98.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/window-white-round-top.glb"
-dest_files=["res://.godot/imported/window-white-round-top.glb-53de8f05c5da6c8eef3b7e8071937597.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/window-white-round-top.glb"
+dest_files=["res://.godot/imported/window-white-round-top.glb-874fde6a30e59384bfd673993febac98.scn"]
 
 [params]
 

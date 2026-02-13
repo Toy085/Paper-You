@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwolnatwpi6ab"
-path="res://.godot/imported/grass_leafs.glb-384c6c6406f67c91f0ff77720640ee50.scn"
+path="res://.godot/imported/grass_leafs.glb-e8074f974ac9bfbbbc587329efc96c9c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/grass_leafs.glb"
-dest_files=["res://.godot/imported/grass_leafs.glb-384c6c6406f67c91f0ff77720640ee50.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/grass_leafs.glb"
+dest_files=["res://.godot/imported/grass_leafs.glb-e8074f974ac9bfbbbc587329efc96c9c.scn"]
 
 [params]
 

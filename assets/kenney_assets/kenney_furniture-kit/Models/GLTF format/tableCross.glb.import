@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cieiuneey33q4"
-path="res://.godot/imported/tableCross.glb-707e927158ad3f8dbcc0ea8243e7f911.scn"
+path="res://.godot/imported/tableCross.glb-d2df4983b5aaad481616fb5f503c68b6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/tableCross.glb"
-dest_files=["res://.godot/imported/tableCross.glb-707e927158ad3f8dbcc0ea8243e7f911.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/tableCross.glb"
+dest_files=["res://.godot/imported/tableCross.glb-d2df4983b5aaad481616fb5f503c68b6.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bel6bdixpf56a"
-path="res://.godot/imported/ceilingFan.glb-2dfed3f0828800bb6a21913d90273db0.scn"
+path="res://.godot/imported/ceilingFan.glb-fc0feaa3b96848dd3ccc3e99c7ba5ec3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/ceilingFan.glb"
-dest_files=["res://.godot/imported/ceilingFan.glb-2dfed3f0828800bb6a21913d90273db0.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/ceilingFan.glb"
+dest_files=["res://.godot/imported/ceilingFan.glb-fc0feaa3b96848dd3ccc3e99c7ba5ec3.scn"]
 
 [params]
 

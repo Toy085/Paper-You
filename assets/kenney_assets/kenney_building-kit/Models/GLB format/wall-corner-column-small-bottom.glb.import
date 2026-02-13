@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c5rr7yp24npsv"
-path="res://.godot/imported/wall-corner-column-small-bottom.glb-402136254f561c9f326724986c2ff1b2.scn"
+path="res://.godot/imported/wall-corner-column-small-bottom.glb-92c88e0f229f10a3e2d951331474b21b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/wall-corner-column-small-bottom.glb"
-dest_files=["res://.godot/imported/wall-corner-column-small-bottom.glb-402136254f561c9f326724986c2ff1b2.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/wall-corner-column-small-bottom.glb"
+dest_files=["res://.godot/imported/wall-corner-column-small-bottom.glb-92c88e0f229f10a3e2d951331474b21b.scn"]
 
 [params]
 

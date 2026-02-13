@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d27sr31qt6jrt"
-path="res://.godot/imported/building-steps-narrow-windows.fbx-be9d6047cfe1439a4bea3eb3b7ddfd61.scn"
+path="res://.godot/imported/building-steps-narrow-windows.fbx-aacbeafdda6987013da6549e99123cce.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-steps-narrow-windows.fbx"
-dest_files=["res://.godot/imported/building-steps-narrow-windows.fbx-be9d6047cfe1439a4bea3eb3b7ddfd61.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-steps-narrow-windows.fbx"
+dest_files=["res://.godot/imported/building-steps-narrow-windows.fbx-aacbeafdda6987013da6549e99123cce.scn"]
 
 [params]
 

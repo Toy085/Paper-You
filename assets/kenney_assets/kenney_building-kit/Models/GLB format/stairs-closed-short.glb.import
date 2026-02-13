@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0pexqvjd25wv"
-path="res://.godot/imported/stairs-closed-short.glb-8d9b185a3f3df657f9c7b6ec5eb8716a.scn"
+path="res://.godot/imported/stairs-closed-short.glb-7ccfc52ccf8d93c37adca7281f5ddf9d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/stairs-closed-short.glb"
-dest_files=["res://.godot/imported/stairs-closed-short.glb-8d9b185a3f3df657f9c7b6ec5eb8716a.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/stairs-closed-short.glb"
+dest_files=["res://.godot/imported/stairs-closed-short.glb-7ccfc52ccf8d93c37adca7281f5ddf9d.scn"]
 
 [params]
 

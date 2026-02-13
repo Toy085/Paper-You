@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c61jhfrb8oaxe"
-path="res://.godot/imported/floorHalf.glb-e3ffe404b7b0835a998b14ae268d0177.scn"
+path="res://.godot/imported/floorHalf.glb-f8828ef275d5a08a328e72a27721f4b4.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/floorHalf.glb"
-dest_files=["res://.godot/imported/floorHalf.glb-e3ffe404b7b0835a998b14ae268d0177.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/floorHalf.glb"
+dest_files=["res://.godot/imported/floorHalf.glb-f8828ef275d5a08a328e72a27721f4b4.scn"]
 
 [params]
 

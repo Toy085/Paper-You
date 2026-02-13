@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cixkqh74uti4w"
-path="res://.godot/imported/speakerSmall.glb-b2cb49c42416027f9eaa52f2bb1863b5.scn"
+path="res://.godot/imported/speakerSmall.glb-cac8e19c646dedd11f06f870d0b63ddd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/speakerSmall.glb"
-dest_files=["res://.godot/imported/speakerSmall.glb-b2cb49c42416027f9eaa52f2bb1863b5.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/speakerSmall.glb"
+dest_files=["res://.godot/imported/speakerSmall.glb-cac8e19c646dedd11f06f870d0b63ddd.scn"]
 
 [params]
 

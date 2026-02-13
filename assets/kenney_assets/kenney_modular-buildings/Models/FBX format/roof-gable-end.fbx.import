@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dk44mr6dev5lv"
-path="res://.godot/imported/roof-gable-end.fbx-8cef3f7acd5eaaf8f33756f1170213cc.scn"
+path="res://.godot/imported/roof-gable-end.fbx-0ec9c1ca5a885b08bc34886f109c19eb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-gable-end.fbx"
-dest_files=["res://.godot/imported/roof-gable-end.fbx-8cef3f7acd5eaaf8f33756f1170213cc.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/roof-gable-end.fbx"
+dest_files=["res://.godot/imported/roof-gable-end.fbx-0ec9c1ca5a885b08bc34886f109c19eb.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bt0lt367np2b5"
-path="res://.godot/imported/conveyor-belt.fbx-1734fc78324ff5d82ab80c15b1cc3f0b.scn"
+path="res://.godot/imported/conveyor-belt.fbx-897cdef27236f72b8933d77a29a690e8.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/conveyor-belt.fbx"
-dest_files=["res://.godot/imported/conveyor-belt.fbx-1734fc78324ff5d82ab80c15b1cc3f0b.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/conveyor-belt.fbx"
+dest_files=["res://.godot/imported/conveyor-belt.fbx-897cdef27236f72b8933d77a29a690e8.scn"]
 
 [params]
 

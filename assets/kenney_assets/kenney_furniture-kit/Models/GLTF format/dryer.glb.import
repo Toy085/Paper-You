@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://7dhgxe32oxvw"
-path="res://.godot/imported/dryer.glb-0ce5b9f460a860666430b14c277d3336.scn"
+path="res://.godot/imported/dryer.glb-06f7a7d85fbc827f590096350c72b475.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/dryer.glb"
-dest_files=["res://.godot/imported/dryer.glb-0ce5b9f460a860666430b14c277d3336.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/dryer.glb"
+dest_files=["res://.godot/imported/dryer.glb-06f7a7d85fbc827f590096350c72b475.scn"]
 
 [params]
 

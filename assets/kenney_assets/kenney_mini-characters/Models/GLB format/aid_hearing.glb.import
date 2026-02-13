@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d0lhj6reax5nx"
-path="res://.godot/imported/aid_hearing.glb-a2c91f166ed1bbd2c8e235b2c4c744b0.scn"
+path="res://.godot/imported/aid_hearing.glb-729723002d1179d4d8ffb2a652631bfe.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/aid_hearing.glb"
-dest_files=["res://.godot/imported/aid_hearing.glb-a2c91f166ed1bbd2c8e235b2c4c744b0.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/aid_hearing.glb"
+dest_files=["res://.godot/imported/aid_hearing.glb-729723002d1179d4d8ffb2a652631bfe.scn"]
 
 [params]
 

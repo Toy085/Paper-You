@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqorldjdycubq"
-path="res://.godot/imported/stairsCorner.glb-ad18545c7f545eeecd72ecd041465e8c.scn"
+path="res://.godot/imported/stairsCorner.glb-ddb851836f51ce83e86ed3595870d982.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/stairsCorner.glb"
-dest_files=["res://.godot/imported/stairsCorner.glb-ad18545c7f545eeecd72ecd041465e8c.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/stairsCorner.glb"
+dest_files=["res://.godot/imported/stairsCorner.glb-ddb851836f51ce83e86ed3595870d982.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bieipag2fe117"
-path="res://.godot/imported/floor.fbx-59dffeb3714d268a79ae87b0d34ddc50.scn"
+path="res://.godot/imported/floor.fbx-2bed99387074bd08f3ab17a85bc92f89.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/floor.fbx"
-dest_files=["res://.godot/imported/floor.fbx-59dffeb3714d268a79ae87b0d34ddc50.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/floor.fbx"
+dest_files=["res://.godot/imported/floor.fbx-2bed99387074bd08f3ab17a85bc92f89.scn"]
 
 [params]
 

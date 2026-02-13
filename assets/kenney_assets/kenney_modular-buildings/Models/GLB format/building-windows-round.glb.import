@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://kvu8l5ctr2g"
-path="res://.godot/imported/building-windows-round.glb-efeb6721fdc91deb4121e69ba72dffb5.scn"
+path="res://.godot/imported/building-windows-round.glb-45a267d565af2f9d16c9e6903bfbf74f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-windows-round.glb"
-dest_files=["res://.godot/imported/building-windows-round.glb-efeb6721fdc91deb4121e69ba72dffb5.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-windows-round.glb"
+dest_files=["res://.godot/imported/building-windows-round.glb-45a267d565af2f9d16c9e6903bfbf74f.scn"]
 
 [params]
 

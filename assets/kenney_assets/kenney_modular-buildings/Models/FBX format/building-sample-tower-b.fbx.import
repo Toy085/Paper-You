@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bl65oq3xisn7c"
-path="res://.godot/imported/building-sample-tower-b.fbx-f38ec67ea22ea625a6b09cd7fb5a8119.scn"
+path="res://.godot/imported/building-sample-tower-b.fbx-89b6c6c1372fc9ff09f37435dac609d0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-sample-tower-b.fbx"
-dest_files=["res://.godot/imported/building-sample-tower-b.fbx-f38ec67ea22ea625a6b09cd7fb5a8119.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-sample-tower-b.fbx"
+dest_files=["res://.godot/imported/building-sample-tower-b.fbx-89b6c6c1372fc9ff09f37435dac609d0.scn"]
 
 [params]
 

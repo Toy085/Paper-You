@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://237o5bvxuikm"
-path="res://.godot/imported/floor-corner-diagonal.glb-596ea2575c0669bb897cff43141128c7.scn"
+path="res://.godot/imported/floor-corner-diagonal.glb-b7f850925ac1a4af2f4058ff81c18b34.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/floor-corner-diagonal.glb"
-dest_files=["res://.godot/imported/floor-corner-diagonal.glb-596ea2575c0669bb897cff43141128c7.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/floor-corner-diagonal.glb"
+dest_files=["res://.godot/imported/floor-corner-diagonal.glb-b7f850925ac1a4af2f4058ff81c18b34.scn"]
 
 [params]
 

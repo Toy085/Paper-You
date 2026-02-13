@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://csvq8sae0a3u8"
-path="res://.godot/imported/plant_bushLargeTriangle.glb-4be401afc1053dba98e58f8dcae6a5d9.scn"
+path="res://.godot/imported/plant_bushLargeTriangle.glb-976b4992ec2a2c97f408ef2ee74c8bd2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/plant_bushLargeTriangle.glb"
-dest_files=["res://.godot/imported/plant_bushLargeTriangle.glb-4be401afc1053dba98e58f8dcae6a5d9.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/plant_bushLargeTriangle.glb"
+dest_files=["res://.godot/imported/plant_bushLargeTriangle.glb-976b4992ec2a2c97f408ef2ee74c8bd2.scn"]
 
 [params]
 

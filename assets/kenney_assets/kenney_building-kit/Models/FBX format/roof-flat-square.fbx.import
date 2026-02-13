@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d24xfnpb8nm4l"
-path="res://.godot/imported/roof-flat-square.fbx-db88ff544e31de1938236ff1fe89973a.scn"
+path="res://.godot/imported/roof-flat-square.fbx-0f6ddeee844a01395f409584ed5196e3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/roof-flat-square.fbx"
-dest_files=["res://.godot/imported/roof-flat-square.fbx-db88ff544e31de1938236ff1fe89973a.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/roof-flat-square.fbx"
+dest_files=["res://.godot/imported/roof-flat-square.fbx-0f6ddeee844a01395f409584ed5196e3.scn"]
 
 [params]
 

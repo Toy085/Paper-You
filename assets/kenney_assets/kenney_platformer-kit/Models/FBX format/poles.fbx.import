@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dbx8hw84cmrpe"
-path="res://.godot/imported/poles.fbx-e0e55d3da1fe9ad72ef0a384dea97ff6.scn"
+path="res://.godot/imported/poles.fbx-ada29f2fb192724c82732ef46e3e231a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/poles.fbx"
-dest_files=["res://.godot/imported/poles.fbx-e0e55d3da1fe9ad72ef0a384dea97ff6.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/poles.fbx"
+dest_files=["res://.godot/imported/poles.fbx-ada29f2fb192724c82732ef46e3e231a.scn"]
 
 [params]
 

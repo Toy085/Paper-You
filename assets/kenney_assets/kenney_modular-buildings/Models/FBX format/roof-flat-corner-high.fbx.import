@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmb2uc7dsmoad"
-path="res://.godot/imported/roof-flat-corner-high.fbx-2cb418f392701dc883350ead65827275.scn"
+path="res://.godot/imported/roof-flat-corner-high.fbx-43117726452e777903c1ad289ba25372.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-flat-corner-high.fbx"
-dest_files=["res://.godot/imported/roof-flat-corner-high.fbx-2cb418f392701dc883350ead65827275.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/roof-flat-corner-high.fbx"
+dest_files=["res://.godot/imported/roof-flat-corner-high.fbx-43117726452e777903c1ad289ba25372.scn"]
 
 [params]
 

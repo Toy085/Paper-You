@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c4psijcd2n0kb"
-path="res://.godot/imported/fence_planksDouble.glb-db9c9a37815efe0befa19603986aba46.scn"
+path="res://.godot/imported/fence_planksDouble.glb-5d77aec627175b17e7be3871df83a870.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/fence_planksDouble.glb"
-dest_files=["res://.godot/imported/fence_planksDouble.glb-db9c9a37815efe0befa19603986aba46.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/fence_planksDouble.glb"
+dest_files=["res://.godot/imported/fence_planksDouble.glb-5d77aec627175b17e7be3871df83a870.scn"]
 
 [params]
 

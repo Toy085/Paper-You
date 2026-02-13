@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://beka04q28tbog"
-path="res://.godot/imported/coatRack.glb-7ef7afe0a79c6e9a78e86c194ab01269.scn"
+path="res://.godot/imported/coatRack.glb-4ef25a86e742dd334cf35f01cc6fe730.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/coatRack.glb"
-dest_files=["res://.godot/imported/coatRack.glb-7ef7afe0a79c6e9a78e86c194ab01269.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/coatRack.glb"
+dest_files=["res://.godot/imported/coatRack.glb-4ef25a86e742dd334cf35f01cc6fe730.scn"]
 
 [params]
 

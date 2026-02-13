@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://chaejnodxddss"
-path="res://.godot/imported/ground_riverSplit.glb-95e8c247955039047adac0ba4219b05e.scn"
+path="res://.godot/imported/ground_riverSplit.glb-fcf97a58b33e6d837d537bef19b7f962.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverSplit.glb"
-dest_files=["res://.godot/imported/ground_riverSplit.glb-95e8c247955039047adac0ba4219b05e.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_riverSplit.glb"
+dest_files=["res://.godot/imported/ground_riverSplit.glb-fcf97a58b33e6d837d537bef19b7f962.scn"]
 
 [params]
 

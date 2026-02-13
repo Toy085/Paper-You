@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bph44m866kevq"
-path="res://.godot/imported/block-grass-edge.glb-6c17611ad868ba35ba7b9e4c4fe912ff.scn"
+path="res://.godot/imported/block-grass-edge.glb-fc336466f0082c42762c888b86d8756b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-edge.glb"
-dest_files=["res://.godot/imported/block-grass-edge.glb-6c17611ad868ba35ba7b9e4c4fe912ff.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/block-grass-edge.glb"
+dest_files=["res://.godot/imported/block-grass-edge.glb-fc336466f0082c42762c888b86d8756b.scn"]
 
 [params]
 

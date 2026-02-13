@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://07j8l67f71r8"
-path="res://.godot/imported/wall-half.glb-fbf486ce85753b891165ac4d3b165b28.scn"
+path="res://.godot/imported/wall-half.glb-adefe87e88cc88ecc4a49cdebd4567cc.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/wall-half.glb"
-dest_files=["res://.godot/imported/wall-half.glb-fbf486ce85753b891165ac4d3b165b28.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/wall-half.glb"
+dest_files=["res://.godot/imported/wall-half.glb-adefe87e88cc88ecc4a49cdebd4567cc.scn"]
 
 [params]
 

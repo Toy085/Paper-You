@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://db50ikb5k3wgh"
-path="res://.godot/imported/building-steps-wide.fbx-6ef4de126ecfebbff8f20778d0dd6806.scn"
+path="res://.godot/imported/building-steps-wide.fbx-7c6b7699013202b36b9722b4144487ec.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-steps-wide.fbx"
-dest_files=["res://.godot/imported/building-steps-wide.fbx-6ef4de126ecfebbff8f20778d0dd6806.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-steps-wide.fbx"
+dest_files=["res://.godot/imported/building-steps-wide.fbx-7c6b7699013202b36b9722b4144487ec.scn"]
 
 [params]
 

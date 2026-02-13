@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b5mn0jky3upgq"
-path="res://.godot/imported/brick.fbx-a4942212bd247f0d7be5405e32ef15ef.scn"
+path="res://.godot/imported/brick.fbx-aa1c74fed8a3da977aec4b371a0c357d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/brick.fbx"
-dest_files=["res://.godot/imported/brick.fbx-a4942212bd247f0d7be5405e32ef15ef.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/brick.fbx"
+dest_files=["res://.godot/imported/brick.fbx-aa1c74fed8a3da977aec4b371a0c357d.scn"]
 
 [params]
 

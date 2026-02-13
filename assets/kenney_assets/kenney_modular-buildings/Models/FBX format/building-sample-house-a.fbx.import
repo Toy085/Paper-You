@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ckgu3m2i3hlwe"
-path="res://.godot/imported/building-sample-house-a.fbx-9b356eff88d95bab17eda979b3fd14c4.scn"
+path="res://.godot/imported/building-sample-house-a.fbx-1b30e303d8de6c7586fb8e76dbdccada.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-sample-house-a.fbx"
-dest_files=["res://.godot/imported/building-sample-house-a.fbx-9b356eff88d95bab17eda979b3fd14c4.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-sample-house-a.fbx"
+dest_files=["res://.godot/imported/building-sample-house-a.fbx-1b30e303d8de6c7586fb8e76dbdccada.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bmg3f1fq21fi7"
-path="res://.godot/imported/stump_squareDetailedWide.glb-1efb98d846a06df3f52004055c3affba.scn"
+path="res://.godot/imported/stump_squareDetailedWide.glb-220807fc868754e0e1900fc88a0f0138.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/stump_squareDetailedWide.glb"
-dest_files=["res://.godot/imported/stump_squareDetailedWide.glb-1efb98d846a06df3f52004055c3affba.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/stump_squareDetailedWide.glb"
+dest_files=["res://.godot/imported/stump_squareDetailedWide.glb-220807fc868754e0e1900fc88a0f0138.scn"]
 
 [params]
 

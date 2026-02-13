@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cghgtgcsjq1da"
-path="res://.godot/imported/ground_riverBend.glb-27c6aa5ae291c960d8c4677745d8ddc8.scn"
+path="res://.godot/imported/ground_riverBend.glb-dbc9eebb9e37c5939c744b327af6ee84.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverBend.glb"
-dest_files=["res://.godot/imported/ground_riverBend.glb-27c6aa5ae291c960d8c4677745d8ddc8.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_riverBend.glb"
+dest_files=["res://.godot/imported/ground_riverBend.glb-dbc9eebb9e37c5939c744b327af6ee84.scn"]
 
 [params]
 

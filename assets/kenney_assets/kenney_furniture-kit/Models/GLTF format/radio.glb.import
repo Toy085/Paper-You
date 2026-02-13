@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b2vfvtvqwgdpr"
-path="res://.godot/imported/radio.glb-cfa10357817928349eb7533f6eafe572.scn"
+path="res://.godot/imported/radio.glb-497a86f370e20115bbbd00b13e3c43b5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/radio.glb"
-dest_files=["res://.godot/imported/radio.glb-cfa10357817928349eb7533f6eafe572.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/radio.glb"
+dest_files=["res://.godot/imported/radio.glb-497a86f370e20115bbbd00b13e3c43b5.scn"]
 
 [params]
 

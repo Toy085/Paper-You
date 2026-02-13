@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bxmuusuofa4bt"
-path="res://.godot/imported/building-window-awnings.fbx-c9bb79a1f8a9c31185c2c687c40ce9c8.scn"
+path="res://.godot/imported/building-window-awnings.fbx-fe36c52ceb2935b3a9426ed9911261ba.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-window-awnings.fbx"
-dest_files=["res://.godot/imported/building-window-awnings.fbx-c9bb79a1f8a9c31185c2c687c40ce9c8.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-window-awnings.fbx"
+dest_files=["res://.godot/imported/building-window-awnings.fbx-fe36c52ceb2935b3a9426ed9911261ba.scn"]
 
 [params]
 

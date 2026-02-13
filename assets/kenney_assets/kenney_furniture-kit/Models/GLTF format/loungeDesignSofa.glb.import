@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://di784biebodvw"
-path="res://.godot/imported/loungeDesignSofa.glb-a8205a3a0204c7979173ab26c3c9da9d.scn"
+path="res://.godot/imported/loungeDesignSofa.glb-d78e4a5a163e59778dd17920569437c1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/loungeDesignSofa.glb"
-dest_files=["res://.godot/imported/loungeDesignSofa.glb-a8205a3a0204c7979173ab26c3c9da9d.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/loungeDesignSofa.glb"
+dest_files=["res://.godot/imported/loungeDesignSofa.glb-d78e4a5a163e59778dd17920569437c1.scn"]
 
 [params]
 

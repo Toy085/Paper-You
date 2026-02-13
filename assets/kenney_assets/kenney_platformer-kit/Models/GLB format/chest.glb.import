@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dedb3sby5qmeb"
-path="res://.godot/imported/chest.glb-43a9eef05982b9fc45640a9d6389e89d.scn"
+path="res://.godot/imported/chest.glb-cc41b262021f863442573a4fae680e80.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/chest.glb"
-dest_files=["res://.godot/imported/chest.glb-43a9eef05982b9fc45640a9d6389e89d.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/chest.glb"
+dest_files=["res://.godot/imported/chest.glb-cc41b262021f863442573a4fae680e80.scn"]
 
 [params]
 

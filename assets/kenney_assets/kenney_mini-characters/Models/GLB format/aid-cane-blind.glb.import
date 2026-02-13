@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://da8krxqyombmu"
-path="res://.godot/imported/aid-cane-blind.glb-2f3a6787cf8653425fa1795e060ff236.scn"
+path="res://.godot/imported/aid-cane-blind.glb-7758c729c433af0bc54e6d8dd44fa101.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/aid-cane-blind.glb"
-dest_files=["res://.godot/imported/aid-cane-blind.glb-2f3a6787cf8653425fa1795e060ff236.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/aid-cane-blind.glb"
+dest_files=["res://.godot/imported/aid-cane-blind.glb-7758c729c433af0bc54e6d8dd44fa101.scn"]
 
 [params]
 

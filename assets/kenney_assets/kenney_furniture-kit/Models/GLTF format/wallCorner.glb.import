@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmbmi5j0qtwte"
-path="res://.godot/imported/wallCorner.glb-8dc9fecf9bbd2a15700bcb6e879bb32e.scn"
+path="res://.godot/imported/wallCorner.glb-4a69ea4e3035166781281222d452d69d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/wallCorner.glb"
-dest_files=["res://.godot/imported/wallCorner.glb-8dc9fecf9bbd2a15700bcb6e879bb32e.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/wallCorner.glb"
+dest_files=["res://.godot/imported/wallCorner.glb-4a69ea4e3035166781281222d452d69d.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bghoncu867jed"
-path="res://.godot/imported/bedBunk.glb-ea675524fdbd9c553f5159b1948ddc1e.scn"
+path="res://.godot/imported/bedBunk.glb-c2223849787e5bc40f7f66584244f277.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bedBunk.glb"
-dest_files=["res://.godot/imported/bedBunk.glb-ea675524fdbd9c553f5159b1948ddc1e.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bedBunk.glb"
+dest_files=["res://.godot/imported/bedBunk.glb-c2223849787e5bc40f7f66584244f277.scn"]
 
 [params]
 

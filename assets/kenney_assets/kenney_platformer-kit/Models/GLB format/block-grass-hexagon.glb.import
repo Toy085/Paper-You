@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://nqny5bg5m3nt"
-path="res://.godot/imported/block-grass-hexagon.glb-8d77f662c38bc843adad2c4257cd5d84.scn"
+path="res://.godot/imported/block-grass-hexagon.glb-7e67d2dda1c85ff00bfa1c6c0fd195e5.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/block-grass-hexagon.glb"
-dest_files=["res://.godot/imported/block-grass-hexagon.glb-8d77f662c38bc843adad2c4257cd5d84.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/block-grass-hexagon.glb"
+dest_files=["res://.godot/imported/block-grass-hexagon.glb-7e67d2dda1c85ff00bfa1c6c0fd195e5.scn"]
 
 [params]
 

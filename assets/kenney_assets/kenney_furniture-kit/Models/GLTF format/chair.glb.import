@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c47ggkgmnf370"
-path="res://.godot/imported/chair.glb-06634ff4efeab946ef5865debbd56748.scn"
+path="res://.godot/imported/chair.glb-76df9c9fff4f6fd364e8ced74e6e2265.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/chair.glb"
-dest_files=["res://.godot/imported/chair.glb-06634ff4efeab946ef5865debbd56748.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/chair.glb"
+dest_files=["res://.godot/imported/chair.glb-76df9c9fff4f6fd364e8ced74e6e2265.scn"]
 
 [params]
 

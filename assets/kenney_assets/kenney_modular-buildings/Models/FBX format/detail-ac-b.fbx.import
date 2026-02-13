@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://glelv0x5th2l"
-path="res://.godot/imported/detail-ac-b.fbx-c3862633d9fc6958aef7309d7649c4c6.scn"
+path="res://.godot/imported/detail-ac-b.fbx-a0fef5345e9e73e07487ad6674621230.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/detail-ac-b.fbx"
-dest_files=["res://.godot/imported/detail-ac-b.fbx-c3862633d9fc6958aef7309d7649c4c6.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/detail-ac-b.fbx"
+dest_files=["res://.godot/imported/detail-ac-b.fbx-a0fef5345e9e73e07487ad6674621230.scn"]
 
 [params]
 

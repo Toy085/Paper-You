@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xq3ospeofcog"
-path="res://.godot/imported/gutter-vertical-bottom.glb-8c5c3d81f191ce607df16cbd62cf6da5.scn"
+path="res://.godot/imported/gutter-vertical-bottom.glb-ada0fc9baf57fa92c2b9367a6cd429cb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/gutter-vertical-bottom.glb"
-dest_files=["res://.godot/imported/gutter-vertical-bottom.glb-8c5c3d81f191ce607df16cbd62cf6da5.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/gutter-vertical-bottom.glb"
+dest_files=["res://.godot/imported/gutter-vertical-bottom.glb-ada0fc9baf57fa92c2b9367a6cd429cb.scn"]
 
 [params]
 

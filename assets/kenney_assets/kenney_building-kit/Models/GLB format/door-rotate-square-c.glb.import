@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cq3qhgq30fvfa"
-path="res://.godot/imported/door-rotate-square-c.glb-b6e679f0c6dbc4f54583db26ee490024.scn"
+path="res://.godot/imported/door-rotate-square-c.glb-2a0d2eb8995675ee9d5e87e472a5799f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/door-rotate-square-c.glb"
-dest_files=["res://.godot/imported/door-rotate-square-c.glb-b6e679f0c6dbc4f54583db26ee490024.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/door-rotate-square-c.glb"
+dest_files=["res://.godot/imported/door-rotate-square-c.glb-2a0d2eb8995675ee9d5e87e472a5799f.scn"]
 
 [params]
 

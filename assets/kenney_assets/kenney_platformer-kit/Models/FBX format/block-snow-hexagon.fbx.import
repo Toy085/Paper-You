@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dmvpmgied7nyg"
-path="res://.godot/imported/block-snow-hexagon.fbx-c1bb2ce3a6fbd6be113f6071410c7407.scn"
+path="res://.godot/imported/block-snow-hexagon.fbx-7fb7c31ce0a251853d756dee048ca560.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-hexagon.fbx"
-dest_files=["res://.godot/imported/block-snow-hexagon.fbx-c1bb2ce3a6fbd6be113f6071410c7407.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/block-snow-hexagon.fbx"
+dest_files=["res://.godot/imported/block-snow-hexagon.fbx-7fb7c31ce0a251853d756dee048ca560.scn"]
 
 [params]
 

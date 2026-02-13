@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b6di7hg623203"
-path="res://.godot/imported/televisionVintage.glb-1d663c1d8eea2ffec16641487339a3db.scn"
+path="res://.godot/imported/televisionVintage.glb-c8f919d8ef3d9185cb38a60582223e61.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/televisionVintage.glb"
-dest_files=["res://.godot/imported/televisionVintage.glb-1d663c1d8eea2ffec16641487339a3db.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/televisionVintage.glb"
+dest_files=["res://.godot/imported/televisionVintage.glb-c8f919d8ef3d9185cb38a60582223e61.scn"]
 
 [params]
 

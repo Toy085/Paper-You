@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://yo50qjpp1pjh"
-path="res://.godot/imported/kitchenBlender.glb-695c099a0a358531f02dc50a9449dd38.scn"
+path="res://.godot/imported/kitchenBlender.glb-78f73faae35c138c25765c166fd33c8d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/kitchenBlender.glb"
-dest_files=["res://.godot/imported/kitchenBlender.glb-695c099a0a358531f02dc50a9449dd38.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/kitchenBlender.glb"
+dest_files=["res://.godot/imported/kitchenBlender.glb-78f73faae35c138c25765c166fd33c8d.scn"]
 
 [params]
 

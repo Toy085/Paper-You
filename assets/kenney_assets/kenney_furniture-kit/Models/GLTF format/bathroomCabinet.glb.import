@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://smpybrx8eacg"
-path="res://.godot/imported/bathroomCabinet.glb-da71125c222ea74b3426cf0c6b8a7f4e.scn"
+path="res://.godot/imported/bathroomCabinet.glb-ab7fbc6667bb8209cdd5cb26c26eebb1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bathroomCabinet.glb"
-dest_files=["res://.godot/imported/bathroomCabinet.glb-da71125c222ea74b3426cf0c6b8a7f4e.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bathroomCabinet.glb"
+dest_files=["res://.godot/imported/bathroomCabinet.glb-ab7fbc6667bb8209cdd5cb26c26eebb1.scn"]
 
 [params]
 

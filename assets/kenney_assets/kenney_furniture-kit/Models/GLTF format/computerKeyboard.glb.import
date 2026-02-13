@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c5beddqj15aa1"
-path="res://.godot/imported/computerKeyboard.glb-27338b22fd52412c2490cf24a548aebd.scn"
+path="res://.godot/imported/computerKeyboard.glb-039570b56f90da6cf21de7ce19a38ed3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/computerKeyboard.glb"
-dest_files=["res://.godot/imported/computerKeyboard.glb-27338b22fd52412c2490cf24a548aebd.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/computerKeyboard.glb"
+dest_files=["res://.godot/imported/computerKeyboard.glb-039570b56f90da6cf21de7ce19a38ed3.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://wfeqhagulg8x"
-path="res://.godot/imported/block-grass-overhang-hexagon.fbx-200e6210cb3f5830dcd186006c033572.scn"
+path="res://.godot/imported/block-grass-overhang-hexagon.fbx-7faad77e61698087821df9672cc3dfb9.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-hexagon.fbx"
-dest_files=["res://.godot/imported/block-grass-overhang-hexagon.fbx-200e6210cb3f5830dcd186006c033572.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/block-grass-overhang-hexagon.fbx"
+dest_files=["res://.godot/imported/block-grass-overhang-hexagon.fbx-7faad77e61698087821df9672cc3dfb9.scn"]
 
 [params]
 

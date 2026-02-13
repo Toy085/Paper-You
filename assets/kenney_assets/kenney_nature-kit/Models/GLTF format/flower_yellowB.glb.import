@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://byx0xfxl88b2t"
-path="res://.godot/imported/flower_yellowB.glb-9f0518eae8b6c3366d90d8a351840618.scn"
+path="res://.godot/imported/flower_yellowB.glb-1ef8ac9b1a1d228d38cbdbdf6df5c25d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/flower_yellowB.glb"
-dest_files=["res://.godot/imported/flower_yellowB.glb-9f0518eae8b6c3366d90d8a351840618.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/flower_yellowB.glb"
+dest_files=["res://.godot/imported/flower_yellowB.glb-1ef8ac9b1a1d228d38cbdbdf6df5c25d.scn"]
 
 [params]
 

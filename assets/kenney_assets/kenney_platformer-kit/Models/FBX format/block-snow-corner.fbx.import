@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qmi5bolvsg0x"
-path="res://.godot/imported/block-snow-corner.fbx-adcd64341dbee3df3a4443c40582d0bc.scn"
+path="res://.godot/imported/block-snow-corner.fbx-ef88331f66fb1e998f440cad008734e7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-corner.fbx"
-dest_files=["res://.godot/imported/block-snow-corner.fbx-adcd64341dbee3df3a4443c40582d0bc.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/block-snow-corner.fbx"
+dest_files=["res://.godot/imported/block-snow-corner.fbx-ef88331f66fb1e998f440cad008734e7.scn"]
 
 [params]
 

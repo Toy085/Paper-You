@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cg8rcy16m6n20"
-path="res://.godot/imported/tent_smallClosed.glb-39b54f819f5d6dd61ab926c64bbc1684.scn"
+path="res://.godot/imported/tent_smallClosed.glb-da07e104332c2b73477f2aa434ca907a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tent_smallClosed.glb"
-dest_files=["res://.godot/imported/tent_smallClosed.glb-39b54f819f5d6dd61ab926c64bbc1684.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/tent_smallClosed.glb"
+dest_files=["res://.godot/imported/tent_smallClosed.glb-da07e104332c2b73477f2aa434ca907a.scn"]
 
 [params]
 

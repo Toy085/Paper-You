@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dj4ge40kj30ha"
-path="res://.godot/imported/floorCornerRound.glb-bbcb21324a000ac705d2a2ebfeaad419.scn"
+path="res://.godot/imported/floorCornerRound.glb-b3dde948a785263ca34179674707583c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/floorCornerRound.glb"
-dest_files=["res://.godot/imported/floorCornerRound.glb-bbcb21324a000ac705d2a2ebfeaad419.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/floorCornerRound.glb"
+dest_files=["res://.godot/imported/floorCornerRound.glb-b3dde948a785263ca34179674707583c.scn"]
 
 [params]
 

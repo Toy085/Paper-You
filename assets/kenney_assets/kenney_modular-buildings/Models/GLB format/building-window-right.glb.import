@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c5rsu0wwr16cl"
-path="res://.godot/imported/building-window-right.glb-3b1aa681ac0b4fb1a556c263c0885f9b.scn"
+path="res://.godot/imported/building-window-right.glb-c7dba33dc27a020eba299fafc96c529e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-window-right.glb"
-dest_files=["res://.godot/imported/building-window-right.glb-3b1aa681ac0b4fb1a556c263c0885f9b.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-window-right.glb"
+dest_files=["res://.godot/imported/building-window-right.glb-c7dba33dc27a020eba299fafc96c529e.scn"]
 
 [params]
 

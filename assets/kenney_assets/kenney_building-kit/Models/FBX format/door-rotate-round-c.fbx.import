@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://belrx6efs8xc8"
-path="res://.godot/imported/door-rotate-round-c.fbx-bcdc2fdd4105d1f025b71e7f05fccb46.scn"
+path="res://.godot/imported/door-rotate-round-c.fbx-25e766b1dec1a92da49bceaec47dc4cf.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/door-rotate-round-c.fbx"
-dest_files=["res://.godot/imported/door-rotate-round-c.fbx-bcdc2fdd4105d1f025b71e7f05fccb46.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/door-rotate-round-c.fbx"
+dest_files=["res://.godot/imported/door-rotate-round-c.fbx-25e766b1dec1a92da49bceaec47dc4cf.scn"]
 
 [params]
 

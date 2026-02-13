@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://7rd13qjkrqnq"
-path="res://.godot/imported/stairs-sides-short.fbx-cd85b30c187ca296ef3298ef218de7a9.scn"
+path="res://.godot/imported/stairs-sides-short.fbx-99e21c0065b001410f24dd10802a0ff0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/stairs-sides-short.fbx"
-dest_files=["res://.godot/imported/stairs-sides-short.fbx-cd85b30c187ca296ef3298ef218de7a9.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/stairs-sides-short.fbx"
+dest_files=["res://.godot/imported/stairs-sides-short.fbx-99e21c0065b001410f24dd10802a0ff0.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://5lnacxskqlu"
-path="res://.godot/imported/bookcaseOpenLow.glb-5aaa6e92e020130201c9223e92cd39e6.scn"
+path="res://.godot/imported/bookcaseOpenLow.glb-03843d26e4344731813316d8e2ac45ef.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bookcaseOpenLow.glb"
-dest_files=["res://.godot/imported/bookcaseOpenLow.glb-5aaa6e92e020130201c9223e92cd39e6.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bookcaseOpenLow.glb"
+dest_files=["res://.godot/imported/bookcaseOpenLow.glb-03843d26e4344731813316d8e2ac45ef.scn"]
 
 [params]
 

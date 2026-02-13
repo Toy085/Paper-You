@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d0ks6arlopf6j"
-path="res://.godot/imported/kitchenSink.glb-c52fc102f117a6667a0729f40b5c7db9.scn"
+path="res://.godot/imported/kitchenSink.glb-78bbcbf4a7aabbdabc63ab8be04d0077.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/kitchenSink.glb"
-dest_files=["res://.godot/imported/kitchenSink.glb-c52fc102f117a6667a0729f40b5c7db9.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/kitchenSink.glb"
+dest_files=["res://.godot/imported/kitchenSink.glb-78bbcbf4a7aabbdabc63ab8be04d0077.scn"]
 
 [params]
 

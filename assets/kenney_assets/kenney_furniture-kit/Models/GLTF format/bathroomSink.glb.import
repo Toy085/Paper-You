@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c2geve7n3hp0d"
-path="res://.godot/imported/bathroomSink.glb-8b2bd18995fe71fc24448aaf7137c828.scn"
+path="res://.godot/imported/bathroomSink.glb-300d8faf7fcd0930ead4dffc4690c2fa.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bathroomSink.glb"
-dest_files=["res://.godot/imported/bathroomSink.glb-8b2bd18995fe71fc24448aaf7137c828.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bathroomSink.glb"
+dest_files=["res://.godot/imported/bathroomSink.glb-300d8faf7fcd0930ead4dffc4690c2fa.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://jdqpyx8kl4e4"
-path="res://.godot/imported/aid-mask.glb-c0f43fc2f30daa5e182a5af275397d57.scn"
+path="res://.godot/imported/aid-mask.glb-784a5cc185c995de6d2826d0249518c7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/aid-mask.glb"
-dest_files=["res://.godot/imported/aid-mask.glb-c0f43fc2f30daa5e182a5af275397d57.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/aid-mask.glb"
+dest_files=["res://.godot/imported/aid-mask.glb-784a5cc185c995de6d2826d0249518c7.scn"]
 
 [params]
 

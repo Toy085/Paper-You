@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://chr3qqmepoh1n"
-path="res://.godot/imported/aid-glasses.fbx-2f55159c00b0ea328cca92fb659e581f.scn"
+path="res://.godot/imported/aid-glasses.fbx-700bc451ed4fb46519c89d2d278c8599.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/FBX format/aid-glasses.fbx"
-dest_files=["res://.godot/imported/aid-glasses.fbx-2f55159c00b0ea328cca92fb659e581f.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/aid-glasses.fbx"
+dest_files=["res://.godot/imported/aid-glasses.fbx-700bc451ed4fb46519c89d2d278c8599.scn"]
 
 [params]
 

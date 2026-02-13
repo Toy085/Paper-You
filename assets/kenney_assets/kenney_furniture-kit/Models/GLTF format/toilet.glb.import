@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://op4icdsj4dn1"
-path="res://.godot/imported/toilet.glb-0f57ddc32567b6388f9a3010963b6309.scn"
+path="res://.godot/imported/toilet.glb-2ca3c000acdd4a51ac59ad1e5a60b12c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/toilet.glb"
-dest_files=["res://.godot/imported/toilet.glb-0f57ddc32567b6388f9a3010963b6309.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/toilet.glb"
+dest_files=["res://.godot/imported/toilet.glb-2ca3c000acdd4a51ac59ad1e5a60b12c.scn"]
 
 [params]
 

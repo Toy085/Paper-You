@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bb5lbpbt5iwpq"
-path="res://.godot/imported/barricade-window-b.glb-7e007cd378185b9622cc9595579d8ea6.scn"
+path="res://.godot/imported/barricade-window-b.glb-c1f57cabf1c039b3686dec6e6a7dbc1f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/barricade-window-b.glb"
-dest_files=["res://.godot/imported/barricade-window-b.glb-7e007cd378185b9622cc9595579d8ea6.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/barricade-window-b.glb"
+dest_files=["res://.godot/imported/barricade-window-b.glb-c1f57cabf1c039b3686dec6e6a7dbc1f.scn"]
 
 [params]
 

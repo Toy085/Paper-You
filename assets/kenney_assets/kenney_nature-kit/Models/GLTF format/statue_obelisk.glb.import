@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xxwu0lghamdk"
-path="res://.godot/imported/statue_obelisk.glb-fc9e73cb5c4f24d51db8631e827280d7.scn"
+path="res://.godot/imported/statue_obelisk.glb-5192e20945f5e06286e4adfe8e1ba7fb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/statue_obelisk.glb"
-dest_files=["res://.godot/imported/statue_obelisk.glb-fc9e73cb5c4f24d51db8631e827280d7.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/statue_obelisk.glb"
+dest_files=["res://.godot/imported/statue_obelisk.glb-5192e20945f5e06286e4adfe8e1ba7fb.scn"]
 
 [params]
 

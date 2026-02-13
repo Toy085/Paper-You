@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c8vu6hd113kn3"
-path="res://.godot/imported/aid-defibrillator-green.glb-253bc8d5ae3fa24eede3f0bfcfbb2258.scn"
+path="res://.godot/imported/aid-defibrillator-green.glb-91a5910b0d06454cf7b5bce3b961d209.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/aid-defibrillator-green.glb"
-dest_files=["res://.godot/imported/aid-defibrillator-green.glb-253bc8d5ae3fa24eede3f0bfcfbb2258.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/aid-defibrillator-green.glb"
+dest_files=["res://.godot/imported/aid-defibrillator-green.glb-91a5910b0d06454cf7b5bce3b961d209.scn"]
 
 [params]
 

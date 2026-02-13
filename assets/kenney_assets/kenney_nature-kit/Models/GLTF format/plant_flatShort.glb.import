@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cpdbmhnbarlly"
-path="res://.godot/imported/plant_flatShort.glb-609900e262122b71b4eef272cf4b9f29.scn"
+path="res://.godot/imported/plant_flatShort.glb-11d0bafdfcef20b8715e0dfd5d480a8d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/plant_flatShort.glb"
-dest_files=["res://.godot/imported/plant_flatShort.glb-609900e262122b71b4eef272cf4b9f29.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/plant_flatShort.glb"
+dest_files=["res://.godot/imported/plant_flatShort.glb-11d0bafdfcef20b8715e0dfd5d480a8d.scn"]
 
 [params]
 

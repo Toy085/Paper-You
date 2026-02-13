@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cr5s1ucsaupws"
-path="res://.godot/imported/sideTable.glb-0c8f03fda5651ba0f49ed9a6cc4406a3.scn"
+path="res://.godot/imported/sideTable.glb-8ecd90c962d93bf1c59592dbc553bebd.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/sideTable.glb"
-dest_files=["res://.godot/imported/sideTable.glb-0c8f03fda5651ba0f49ed9a6cc4406a3.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/sideTable.glb"
+dest_files=["res://.godot/imported/sideTable.glb-8ecd90c962d93bf1c59592dbc553bebd.scn"]
 
 [params]
 

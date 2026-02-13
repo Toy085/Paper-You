@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dn1nxllrrx5vv"
-path="res://.godot/imported/arrows.glb-b4db79757b6f6279beeba14aaa42863e.scn"
+path="res://.godot/imported/arrows.glb-2f45057d6100eaf3cc9bdc3387e53642.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/arrows.glb"
-dest_files=["res://.godot/imported/arrows.glb-b4db79757b6f6279beeba14aaa42863e.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/arrows.glb"
+dest_files=["res://.godot/imported/arrows.glb-2f45057d6100eaf3cc9bdc3387e53642.scn"]
 
 [params]
 

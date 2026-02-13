@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cnu0ofbs6glro"
-path="res://.godot/imported/block-snow-overhang-low-long.fbx-a690f0bfb9e52497783b934ae9fb2993.scn"
+path="res://.godot/imported/block-snow-overhang-low-long.fbx-82d6d08b3694c8cb21ff0c8d7b575ce9.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-overhang-low-long.fbx"
-dest_files=["res://.godot/imported/block-snow-overhang-low-long.fbx-a690f0bfb9e52497783b934ae9fb2993.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/block-snow-overhang-low-long.fbx"
+dest_files=["res://.godot/imported/block-snow-overhang-low-long.fbx-82d6d08b3694c8cb21ff0c8d7b575ce9.scn"]
 
 [params]
 

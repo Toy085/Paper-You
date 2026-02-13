@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bxcn0lhsougtl"
-path="res://.godot/imported/lampWall.glb-e6f3881c2354cdb59a262ed3ed2b8327.scn"
+path="res://.godot/imported/lampWall.glb-ef5632faed0a3f5b5492125422a24554.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/lampWall.glb"
-dest_files=["res://.godot/imported/lampWall.glb-e6f3881c2354cdb59a262ed3ed2b8327.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/lampWall.glb"
+dest_files=["res://.godot/imported/lampWall.glb-ef5632faed0a3f5b5492125422a24554.scn"]
 
 [params]
 

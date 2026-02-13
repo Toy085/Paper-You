@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ijtq10k7stku"
-path="res://.godot/imported/plantSmall2.glb-ad3ee0fcf3630f3de8674b66c6de9946.scn"
+path="res://.godot/imported/plantSmall2.glb-669d3cebb973039319ce3eb8999cfc91.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/plantSmall2.glb"
-dest_files=["res://.godot/imported/plantSmall2.glb-ad3ee0fcf3630f3de8674b66c6de9946.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/plantSmall2.glb"
+dest_files=["res://.godot/imported/plantSmall2.glb-669d3cebb973039319ce3eb8999cfc91.scn"]
 
 [params]
 

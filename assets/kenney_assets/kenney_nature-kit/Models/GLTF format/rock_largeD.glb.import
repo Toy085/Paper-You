@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bfjvtron6sm42"
-path="res://.godot/imported/rock_largeD.glb-b965183dff1d079ce6f854b3f4c99b76.scn"
+path="res://.godot/imported/rock_largeD.glb-1b19dc494ef6bdfd29dcd1645ad64a81.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/rock_largeD.glb"
-dest_files=["res://.godot/imported/rock_largeD.glb-b965183dff1d079ce6f854b3f4c99b76.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/rock_largeD.glb"
+dest_files=["res://.godot/imported/rock_largeD.glb-1b19dc494ef6bdfd29dcd1645ad64a81.scn"]
 
 [params]
 

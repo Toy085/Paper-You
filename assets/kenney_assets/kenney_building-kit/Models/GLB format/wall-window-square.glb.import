@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c8ah7brt44q0r"
-path="res://.godot/imported/wall-window-square.glb-dd0d1ced315b8a592e536d77b7a5035b.scn"
+path="res://.godot/imported/wall-window-square.glb-8d922b5c4c8bffc2618ed2624eb227a7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/wall-window-square.glb"
-dest_files=["res://.godot/imported/wall-window-square.glb-dd0d1ced315b8a592e536d77b7a5035b.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/wall-window-square.glb"
+dest_files=["res://.godot/imported/wall-window-square.glb-8d922b5c4c8bffc2618ed2624eb227a7.scn"]
 
 [params]
 

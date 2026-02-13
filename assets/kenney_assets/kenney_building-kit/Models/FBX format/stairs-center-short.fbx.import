@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqyx5w2uyeew8"
-path="res://.godot/imported/stairs-center-short.fbx-73208377f2b2fc71e894a682756d0243.scn"
+path="res://.godot/imported/stairs-center-short.fbx-16dbb17f308bf526c3925fd4acdf3972.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/stairs-center-short.fbx"
-dest_files=["res://.godot/imported/stairs-center-short.fbx-73208377f2b2fc71e894a682756d0243.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/stairs-center-short.fbx"
+dest_files=["res://.godot/imported/stairs-center-short.fbx-16dbb17f308bf526c3925fd4acdf3972.scn"]
 
 [params]
 

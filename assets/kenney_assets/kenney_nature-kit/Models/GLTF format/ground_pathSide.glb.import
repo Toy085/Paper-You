@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://f1iy0dijfuld"
-path="res://.godot/imported/ground_pathSide.glb-6b84fd825006765fb4d5c0ee32f5ffa3.scn"
+path="res://.godot/imported/ground_pathSide.glb-59ed64ed57e64d3df522a4a70d28cf3d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_pathSide.glb"
-dest_files=["res://.godot/imported/ground_pathSide.glb-6b84fd825006765fb4d5c0ee32f5ffa3.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_pathSide.glb"
+dest_files=["res://.godot/imported/ground_pathSide.glb-59ed64ed57e64d3df522a4a70d28cf3d.scn"]
 
 [params]
 

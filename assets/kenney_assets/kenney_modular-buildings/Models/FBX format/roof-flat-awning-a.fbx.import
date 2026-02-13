@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b32e1s8i1k0fq"
-path="res://.godot/imported/roof-flat-awning-a.fbx-6d81e463669311718eea193a187736ef.scn"
+path="res://.godot/imported/roof-flat-awning-a.fbx-de91b6218bbbf058d7ce6df8eea183ce.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-flat-awning-a.fbx"
-dest_files=["res://.godot/imported/roof-flat-awning-a.fbx-6d81e463669311718eea193a187736ef.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/roof-flat-awning-a.fbx"
+dest_files=["res://.godot/imported/roof-flat-awning-a.fbx-de91b6218bbbf058d7ce6df8eea183ce.scn"]
 
 [params]
 

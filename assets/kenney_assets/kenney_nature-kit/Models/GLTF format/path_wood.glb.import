@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6jyr7ibungkk"
-path="res://.godot/imported/path_wood.glb-5f747343a678bde266f8a93bfbe696f3.scn"
+path="res://.godot/imported/path_wood.glb-1713b43bfcef930ca7cffcc6695ac8fb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/path_wood.glb"
-dest_files=["res://.godot/imported/path_wood.glb-5f747343a678bde266f8a93bfbe696f3.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/path_wood.glb"
+dest_files=["res://.godot/imported/path_wood.glb-1713b43bfcef930ca7cffcc6695ac8fb.scn"]
 
 [params]
 

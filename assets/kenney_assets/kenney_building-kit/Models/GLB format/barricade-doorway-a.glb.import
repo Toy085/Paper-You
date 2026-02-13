@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cd2cv8gmoaw8j"
-path="res://.godot/imported/barricade-doorway-a.glb-2c83bf2867260a9019cb3ff911bfba4a.scn"
+path="res://.godot/imported/barricade-doorway-a.glb-64ff794c7c0252b762ee17599c229a6f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/barricade-doorway-a.glb"
-dest_files=["res://.godot/imported/barricade-doorway-a.glb-2c83bf2867260a9019cb3ff911bfba4a.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/barricade-doorway-a.glb"
+dest_files=["res://.godot/imported/barricade-doorway-a.glb-64ff794c7c0252b762ee17599c229a6f.scn"]
 
 [params]
 

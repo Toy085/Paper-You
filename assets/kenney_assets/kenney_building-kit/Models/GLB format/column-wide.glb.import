@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dndq6lxij1wq8"
-path="res://.godot/imported/column-wide.glb-7a212f58c80390574d142100fe3bc93f.scn"
+path="res://.godot/imported/column-wide.glb-7318dbe62ed5e3131e1e52bd0b6005ee.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/column-wide.glb"
-dest_files=["res://.godot/imported/column-wide.glb-7a212f58c80390574d142100fe3bc93f.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/column-wide.glb"
+dest_files=["res://.godot/imported/column-wide.glb-7318dbe62ed5e3131e1e52bd0b6005ee.scn"]
 
 [params]
 

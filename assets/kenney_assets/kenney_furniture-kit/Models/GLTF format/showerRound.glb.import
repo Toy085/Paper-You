@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvc6y6dmjh4la"
-path="res://.godot/imported/showerRound.glb-190960b95fd64fb52239386631eeed29.scn"
+path="res://.godot/imported/showerRound.glb-f1996203a34599d71957c1e09d039d7b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/showerRound.glb"
-dest_files=["res://.godot/imported/showerRound.glb-190960b95fd64fb52239386631eeed29.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/showerRound.glb"
+dest_files=["res://.godot/imported/showerRound.glb-f1996203a34599d71957c1e09d039d7b.scn"]
 
 [params]
 

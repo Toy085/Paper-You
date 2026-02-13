@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://clotq4eley542"
-path="res://.godot/imported/building-steps-narrow.glb-2f503384d23050e2fc3cd23c62bdbf6b.scn"
+path="res://.godot/imported/building-steps-narrow.glb-1448f0456b7fe4a516066f3c4c82bce1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-steps-narrow.glb"
-dest_files=["res://.godot/imported/building-steps-narrow.glb-2f503384d23050e2fc3cd23c62bdbf6b.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-steps-narrow.glb"
+dest_files=["res://.godot/imported/building-steps-narrow.glb-1448f0456b7fe4a516066f3c4c82bce1.scn"]
 
 [params]
 

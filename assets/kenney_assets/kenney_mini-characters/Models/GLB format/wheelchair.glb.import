@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dm1ya7t3iuk7u"
-path="res://.godot/imported/wheelchair.glb-afa6ece9a79aee973b9b04772e92efce.scn"
+path="res://.godot/imported/wheelchair.glb-6c6123750930ec8adf70845692399589.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/wheelchair.glb"
-dest_files=["res://.godot/imported/wheelchair.glb-afa6ece9a79aee973b9b04772e92efce.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/wheelchair.glb"
+dest_files=["res://.godot/imported/wheelchair.glb-6c6123750930ec8adf70845692399589.scn"]
 
 [params]
 

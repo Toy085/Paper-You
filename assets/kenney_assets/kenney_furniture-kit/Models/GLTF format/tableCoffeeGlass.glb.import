@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cmaxs0f1ucndt"
-path="res://.godot/imported/tableCoffeeGlass.glb-1c26fa3fc1746620abce5df57167c17f.scn"
+path="res://.godot/imported/tableCoffeeGlass.glb-8461bb0a0281b2d610b02c2dceb87c55.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/tableCoffeeGlass.glb"
-dest_files=["res://.godot/imported/tableCoffeeGlass.glb-1c26fa3fc1746620abce5df57167c17f.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/tableCoffeeGlass.glb"
+dest_files=["res://.godot/imported/tableCoffeeGlass.glb-8461bb0a0281b2d610b02c2dceb87c55.scn"]
 
 [params]
 

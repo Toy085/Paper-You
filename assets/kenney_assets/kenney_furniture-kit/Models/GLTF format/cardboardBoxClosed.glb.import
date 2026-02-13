@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c3aso7mc3fyxt"
-path="res://.godot/imported/cardboardBoxClosed.glb-2f61a85e765feb5b50b71f0b1ed975dc.scn"
+path="res://.godot/imported/cardboardBoxClosed.glb-a96feb41849acdaac0978e6a725beca0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/cardboardBoxClosed.glb"
-dest_files=["res://.godot/imported/cardboardBoxClosed.glb-2f61a85e765feb5b50b71f0b1ed975dc.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/cardboardBoxClosed.glb"
+dest_files=["res://.godot/imported/cardboardBoxClosed.glb-a96feb41849acdaac0978e6a725beca0.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cu5enexroea02"
-path="res://.godot/imported/crop_pumpkin.glb-18c627070933de0b54db02d6efed859f.scn"
+path="res://.godot/imported/crop_pumpkin.glb-acbb73d6ec8cff46773f0ddee795444d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crop_pumpkin.glb"
-dest_files=["res://.godot/imported/crop_pumpkin.glb-18c627070933de0b54db02d6efed859f.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/crop_pumpkin.glb"
+dest_files=["res://.godot/imported/crop_pumpkin.glb-acbb73d6ec8cff46773f0ddee795444d.scn"]
 
 [params]
 

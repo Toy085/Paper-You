@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dk420rvklf77b"
-path="res://.godot/imported/wallCornerRond.glb-2fa152777d7cbadc549a79e2106abf98.scn"
+path="res://.godot/imported/wallCornerRond.glb-0baed0d4bc253dfa3f12d807c654e5fb.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/wallCornerRond.glb"
-dest_files=["res://.godot/imported/wallCornerRond.glb-2fa152777d7cbadc549a79e2106abf98.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/wallCornerRond.glb"
+dest_files=["res://.godot/imported/wallCornerRond.glb-0baed0d4bc253dfa3f12d807c654e5fb.scn"]
 
 [params]
 

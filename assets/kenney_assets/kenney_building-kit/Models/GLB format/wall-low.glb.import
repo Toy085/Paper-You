@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://nkq8lqo8gntk"
-path="res://.godot/imported/wall-low.glb-ea30a17d06080bd256165d3933fa4712.scn"
+path="res://.godot/imported/wall-low.glb-acc3f52f41b85f22c80bc2d30f671654.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/wall-low.glb"
-dest_files=["res://.godot/imported/wall-low.glb-ea30a17d06080bd256165d3933fa4712.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/wall-low.glb"
+dest_files=["res://.godot/imported/wall-low.glb-acc3f52f41b85f22c80bc2d30f671654.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bf6a2imr1whkg"
-path="res://.godot/imported/building-corner-window-top-square.fbx-2e09b8f1beacf68342980c59f58a1293.scn"
+path="res://.godot/imported/building-corner-window-top-square.fbx-683aeb40fdad5e890e90a4fef709c95a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-corner-window-top-square.fbx"
-dest_files=["res://.godot/imported/building-corner-window-top-square.fbx-2e09b8f1beacf68342980c59f58a1293.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-corner-window-top-square.fbx"
+dest_files=["res://.godot/imported/building-corner-window-top-square.fbx-683aeb40fdad5e890e90a4fef709c95a.scn"]
 
 [params]
 

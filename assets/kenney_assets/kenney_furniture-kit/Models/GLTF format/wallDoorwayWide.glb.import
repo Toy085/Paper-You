@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://43cxotfngrix"
-path="res://.godot/imported/wallDoorwayWide.glb-87ac0969b5b8efa548fadc0eb5f67fb6.scn"
+path="res://.godot/imported/wallDoorwayWide.glb-72e847e4a56e3dab4baa53513daa9bf0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/wallDoorwayWide.glb"
-dest_files=["res://.godot/imported/wallDoorwayWide.glb-87ac0969b5b8efa548fadc0eb5f67fb6.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/wallDoorwayWide.glb"
+dest_files=["res://.godot/imported/wallDoorwayWide.glb-72e847e4a56e3dab4baa53513daa9bf0.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dfvbhresd6fe0"
-path="res://.godot/imported/stairs-center.glb-905faa5375a25bd5f587c277c06c6c5c.scn"
+path="res://.godot/imported/stairs-center.glb-7cee1dc97dd503c64979f5b7af5ed204.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/stairs-center.glb"
-dest_files=["res://.godot/imported/stairs-center.glb-905faa5375a25bd5f587c277c06c6c5c.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/stairs-center.glb"
+dest_files=["res://.godot/imported/stairs-center.glb-7cee1dc97dd503c64979f5b7af5ed204.scn"]
 
 [params]
 

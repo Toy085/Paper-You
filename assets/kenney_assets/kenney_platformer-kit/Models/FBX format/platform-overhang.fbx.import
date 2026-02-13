@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c7oh1i145qwat"
-path="res://.godot/imported/platform-overhang.fbx-86fd86d897aaca04e0ce10eeeca29fc3.scn"
+path="res://.godot/imported/platform-overhang.fbx-45fd24f984e80eb4f05b509bee267376.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/platform-overhang.fbx"
-dest_files=["res://.godot/imported/platform-overhang.fbx-86fd86d897aaca04e0ce10eeeca29fc3.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/platform-overhang.fbx"
+dest_files=["res://.godot/imported/platform-overhang.fbx-45fd24f984e80eb4f05b509bee267376.scn"]
 
 [params]
 

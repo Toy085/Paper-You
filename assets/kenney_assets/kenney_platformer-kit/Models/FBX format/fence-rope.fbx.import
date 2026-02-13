@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://djfjvqmb32bxv"
-path="res://.godot/imported/fence-rope.fbx-a50a58b23996748eec9ed9259a02cacc.scn"
+path="res://.godot/imported/fence-rope.fbx-b447b330ef51a335a2aa4680fcd00bbf.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/fence-rope.fbx"
-dest_files=["res://.godot/imported/fence-rope.fbx-a50a58b23996748eec9ed9259a02cacc.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/fence-rope.fbx"
+dest_files=["res://.godot/imported/fence-rope.fbx-b447b330ef51a335a2aa4680fcd00bbf.scn"]
 
 [params]
 

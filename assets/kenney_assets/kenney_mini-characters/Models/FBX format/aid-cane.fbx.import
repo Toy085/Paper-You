@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ch7epkncwyir3"
-path="res://.godot/imported/aid-cane.fbx-8b43dfe48bb20a5538a261b669341962.scn"
+path="res://.godot/imported/aid-cane.fbx-338fa4627e1010bf6365e0043056f911.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/FBX format/aid-cane.fbx"
-dest_files=["res://.godot/imported/aid-cane.fbx-8b43dfe48bb20a5538a261b669341962.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/aid-cane.fbx"
+dest_files=["res://.godot/imported/aid-cane.fbx-338fa4627e1010bf6365e0043056f911.scn"]
 
 [params]
 

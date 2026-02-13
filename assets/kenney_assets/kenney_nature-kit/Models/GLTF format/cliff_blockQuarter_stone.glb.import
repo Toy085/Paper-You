@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://wujihtre4mu3"
-path="res://.godot/imported/cliff_blockQuarter_stone.glb-f87a3f7c6ca2447eb89305d0fbe9bf56.scn"
+path="res://.godot/imported/cliff_blockQuarter_stone.glb-de7651838e33cbb48542014d7371b055.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_blockQuarter_stone.glb"
-dest_files=["res://.godot/imported/cliff_blockQuarter_stone.glb-f87a3f7c6ca2447eb89305d0fbe9bf56.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/cliff_blockQuarter_stone.glb"
+dest_files=["res://.godot/imported/cliff_blockQuarter_stone.glb-de7651838e33cbb48542014d7371b055.scn"]
 
 [params]
 

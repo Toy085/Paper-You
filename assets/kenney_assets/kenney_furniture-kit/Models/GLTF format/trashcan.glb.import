@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cm482gm0l0dk0"
-path="res://.godot/imported/trashcan.glb-aa878aadb160c8b007bce573a1585f4a.scn"
+path="res://.godot/imported/trashcan.glb-ac242fa866f3e0e1c62534226882dd68.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/trashcan.glb"
-dest_files=["res://.godot/imported/trashcan.glb-aa878aadb160c8b007bce573a1585f4a.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/trashcan.glb"
+dest_files=["res://.godot/imported/trashcan.glb-ac242fa866f3e0e1c62534226882dd68.scn"]
 
 [params]
 

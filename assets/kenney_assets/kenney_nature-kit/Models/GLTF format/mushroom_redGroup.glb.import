@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://drihwprdjqv"
-path="res://.godot/imported/mushroom_redGroup.glb-4819a01ef75099cc872cc4bfeb3ad66e.scn"
+path="res://.godot/imported/mushroom_redGroup.glb-58f71830d53ffee03843d9f80a4d8d1c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/mushroom_redGroup.glb"
-dest_files=["res://.godot/imported/mushroom_redGroup.glb-4819a01ef75099cc872cc4bfeb3ad66e.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/mushroom_redGroup.glb"
+dest_files=["res://.godot/imported/mushroom_redGroup.glb-58f71830d53ffee03843d9f80a4d8d1c.scn"]
 
 [params]
 

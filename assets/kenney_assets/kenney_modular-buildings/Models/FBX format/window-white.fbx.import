@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://hj0j7eqf81px"
-path="res://.godot/imported/window-white.fbx-ded84c04133f2c76d0ac8dee281404ce.scn"
+path="res://.godot/imported/window-white.fbx-096915328a97f86afb570a7f71d97fab.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/window-white.fbx"
-dest_files=["res://.godot/imported/window-white.fbx-ded84c04133f2c76d0ac8dee281404ce.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/window-white.fbx"
+dest_files=["res://.godot/imported/window-white.fbx-096915328a97f86afb570a7f71d97fab.scn"]
 
 [params]
 

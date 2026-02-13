@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d1rofcf0wx16c"
-path="res://.godot/imported/roof-slanted-window.glb-489a0a37b3c06c5a6e3fdedebb05cdd7.scn"
+path="res://.godot/imported/roof-slanted-window.glb-ff304097069a15eaab5a5e998dfc3b86.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/roof-slanted-window.glb"
-dest_files=["res://.godot/imported/roof-slanted-window.glb-489a0a37b3c06c5a6e3fdedebb05cdd7.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/roof-slanted-window.glb"
+dest_files=["res://.godot/imported/roof-slanted-window.glb-ff304097069a15eaab5a5e998dfc3b86.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b4uc8pe4lk1mt"
-path="res://.godot/imported/gutter-vertical-wall.fbx-9a896d848024f737db3fa4c4c29fbd86.scn"
+path="res://.godot/imported/gutter-vertical-wall.fbx-ac9ecd15f2bc547635a5017f06b7aa24.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/gutter-vertical-wall.fbx"
-dest_files=["res://.godot/imported/gutter-vertical-wall.fbx-9a896d848024f737db3fa4c4c29fbd86.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/gutter-vertical-wall.fbx"
+dest_files=["res://.godot/imported/gutter-vertical-wall.fbx-ac9ecd15f2bc547635a5017f06b7aa24.scn"]
 
 [params]
 

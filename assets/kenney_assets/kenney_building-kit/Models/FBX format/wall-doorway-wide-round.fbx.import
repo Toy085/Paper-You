@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvl8gsdlxcgat"
-path="res://.godot/imported/wall-doorway-wide-round.fbx-e6f17357a0a03cce5b8b3ff70a6136f9.scn"
+path="res://.godot/imported/wall-doorway-wide-round.fbx-12b4570651ea4c6d38e50aeae4bf259f.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/wall-doorway-wide-round.fbx"
-dest_files=["res://.godot/imported/wall-doorway-wide-round.fbx-e6f17357a0a03cce5b8b3ff70a6136f9.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/wall-doorway-wide-round.fbx"
+dest_files=["res://.godot/imported/wall-doorway-wide-round.fbx-12b4570651ea4c6d38e50aeae4bf259f.scn"]
 
 [params]
 

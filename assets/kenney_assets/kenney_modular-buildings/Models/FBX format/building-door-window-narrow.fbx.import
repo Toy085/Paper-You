@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgdfl6ed6romu"
-path="res://.godot/imported/building-door-window-narrow.fbx-58003cc2523ac31e87c921fafaa87cb3.scn"
+path="res://.godot/imported/building-door-window-narrow.fbx-52d1b9e10a2f887ae9347db8ce8a80fe.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-door-window-narrow.fbx"
-dest_files=["res://.godot/imported/building-door-window-narrow.fbx-58003cc2523ac31e87c921fafaa87cb3.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-door-window-narrow.fbx"
+dest_files=["res://.godot/imported/building-door-window-narrow.fbx-52d1b9e10a2f887ae9347db8ce8a80fe.scn"]
 
 [params]
 

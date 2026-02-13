@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c21svlp4i5coh"
-path="res://.godot/imported/trap-spikes.glb-8020694877ee1e94d2b71038e6f146d9.scn"
+path="res://.godot/imported/trap-spikes.glb-8b288cc6cbc8d495ea1a90391b71e6fe.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/trap-spikes.glb"
-dest_files=["res://.godot/imported/trap-spikes.glb-8020694877ee1e94d2b71038e6f146d9.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/trap-spikes.glb"
+dest_files=["res://.godot/imported/trap-spikes.glb-8b288cc6cbc8d495ea1a90391b71e6fe.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bvpsnsmlid7id"
-path="res://.godot/imported/rugRectangle.glb-c77e28cc2a7ddb9b110e113513cfcc95.scn"
+path="res://.godot/imported/rugRectangle.glb-f50736388d6ff7b2b655cf6ada42dcd2.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/rugRectangle.glb"
-dest_files=["res://.godot/imported/rugRectangle.glb-c77e28cc2a7ddb9b110e113513cfcc95.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/rugRectangle.glb"
+dest_files=["res://.godot/imported/rugRectangle.glb-f50736388d6ff7b2b655cf6ada42dcd2.scn"]
 
 [params]
 

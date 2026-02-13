@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ussm6mllbhbx"
-path="res://.godot/imported/building-window-balcony.glb-349a7739a9f93daa60c6335ae87d1900.scn"
+path="res://.godot/imported/building-window-balcony.glb-6829619857e8cf0a33a153ab9be26f44.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-window-balcony.glb"
-dest_files=["res://.godot/imported/building-window-balcony.glb-349a7739a9f93daa60c6335ae87d1900.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-window-balcony.glb"
+dest_files=["res://.godot/imported/building-window-balcony.glb-6829619857e8cf0a33a153ab9be26f44.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bhde1i4pojg1h"
-path="res://.godot/imported/tree_blocks_dark.glb-55450b128cdb8c147149554e43bbd992.scn"
+path="res://.godot/imported/tree_blocks_dark.glb-e2fcb83c71302a175624e7ca05c134a3.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_blocks_dark.glb"
-dest_files=["res://.godot/imported/tree_blocks_dark.glb-55450b128cdb8c147149554e43bbd992.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/tree_blocks_dark.glb"
+dest_files=["res://.godot/imported/tree_blocks_dark.glb-e2fcb83c71302a175624e7ca05c134a3.scn"]
 
 [params]
 

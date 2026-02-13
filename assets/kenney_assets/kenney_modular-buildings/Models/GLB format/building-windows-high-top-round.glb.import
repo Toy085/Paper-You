@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bvys7kco03mh2"
-path="res://.godot/imported/building-windows-high-top-round.glb-b3a64329bb83ff38864b40f1c667d80d.scn"
+path="res://.godot/imported/building-windows-high-top-round.glb-5b847e28d58710f0923b4e887d62d70b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-windows-high-top-round.glb"
-dest_files=["res://.godot/imported/building-windows-high-top-round.glb-b3a64329bb83ff38864b40f1c667d80d.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-windows-high-top-round.glb"
+dest_files=["res://.godot/imported/building-windows-high-top-round.glb-5b847e28d58710f0923b4e887d62d70b.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c87guit2vob2r"
-path="res://.godot/imported/door-brown.fbx-e1eb520968a6eeacbfd0415749176064.scn"
+path="res://.godot/imported/door-brown.fbx-b962d60ea5fb07518fbebe613b673cdf.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/door-brown.fbx"
-dest_files=["res://.godot/imported/door-brown.fbx-e1eb520968a6eeacbfd0415749176064.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/door-brown.fbx"
+dest_files=["res://.godot/imported/door-brown.fbx-b962d60ea5fb07518fbebe613b673cdf.scn"]
 
 [params]
 

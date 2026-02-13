@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d687p222wwjn"
-path="res://.godot/imported/door-white-glass.fbx-bbbc4d17760c9bfae42d2ca2ccc13d24.scn"
+path="res://.godot/imported/door-white-glass.fbx-3b77abeeca3f3ea653ba6098ef3d70f8.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/door-white-glass.fbx"
-dest_files=["res://.godot/imported/door-white-glass.fbx-bbbc4d17760c9bfae42d2ca2ccc13d24.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/door-white-glass.fbx"
+dest_files=["res://.godot/imported/door-white-glass.fbx-3b77abeeca3f3ea653ba6098ef3d70f8.scn"]
 
 [params]
 

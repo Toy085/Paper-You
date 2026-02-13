@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dknjv68jgfs1y"
-path="res://.godot/imported/window-white-round-middle.fbx-ee504f06ad3c0133f47dcf7710d217b9.scn"
+path="res://.godot/imported/window-white-round-middle.fbx-bd14b9470cb1268ab0ea3de68d475c18.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/window-white-round-middle.fbx"
-dest_files=["res://.godot/imported/window-white-round-middle.fbx-ee504f06ad3c0133f47dcf7710d217b9.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/window-white-round-middle.fbx"
+dest_files=["res://.godot/imported/window-white-round-middle.fbx-bd14b9470cb1268ab0ea3de68d475c18.scn"]
 
 [params]
 

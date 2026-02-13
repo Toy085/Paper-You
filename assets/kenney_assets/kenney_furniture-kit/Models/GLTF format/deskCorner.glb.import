@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cqpowhvsnfn1v"
-path="res://.godot/imported/deskCorner.glb-0797be2ff8407815e830d4d93dbe1b60.scn"
+path="res://.godot/imported/deskCorner.glb-2bec79f27db1147d70e8654903564645.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/deskCorner.glb"
-dest_files=["res://.godot/imported/deskCorner.glb-0797be2ff8407815e830d4d93dbe1b60.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/deskCorner.glb"
+dest_files=["res://.godot/imported/deskCorner.glb-2bec79f27db1147d70e8654903564645.scn"]
 
 [params]
 

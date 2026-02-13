@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ks1ngw3rydnd"
-path="res://.godot/imported/televisionModern.glb-a234e6957b52250b9293d53ee9a10bf2.scn"
+path="res://.godot/imported/televisionModern.glb-07f86cfdc03f047e29f93ced34bde11b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/televisionModern.glb"
-dest_files=["res://.godot/imported/televisionModern.glb-a234e6957b52250b9293d53ee9a10bf2.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/televisionModern.glb"
+dest_files=["res://.godot/imported/televisionModern.glb-07f86cfdc03f047e29f93ced34bde11b.scn"]
 
 [params]
 

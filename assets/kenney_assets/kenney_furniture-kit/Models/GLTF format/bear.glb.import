@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://blo4ufhnd3p3s"
-path="res://.godot/imported/bear.glb-40cb3f63052e24da1347fba1bb6975c4.scn"
+path="res://.godot/imported/bear.glb-0da9fba72d0514811f44448612b6f573.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/bear.glb"
-dest_files=["res://.godot/imported/bear.glb-40cb3f63052e24da1347fba1bb6975c4.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/bear.glb"
+dest_files=["res://.godot/imported/bear.glb-0da9fba72d0514811f44448612b6f573.scn"]
 
 [params]
 

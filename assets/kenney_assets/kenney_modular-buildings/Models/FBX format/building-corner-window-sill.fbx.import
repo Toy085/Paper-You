@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cipwwhp2mxm4a"
-path="res://.godot/imported/building-corner-window-sill.fbx-b4544641d21866eff4211ccce353e9fe.scn"
+path="res://.godot/imported/building-corner-window-sill.fbx-7ae52fdc34b3278949b2a367cfac5dc0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-corner-window-sill.fbx"
-dest_files=["res://.godot/imported/building-corner-window-sill.fbx-b4544641d21866eff4211ccce353e9fe.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-corner-window-sill.fbx"
+dest_files=["res://.godot/imported/building-corner-window-sill.fbx-7ae52fdc34b3278949b2a367cfac5dc0.scn"]
 
 [params]
 

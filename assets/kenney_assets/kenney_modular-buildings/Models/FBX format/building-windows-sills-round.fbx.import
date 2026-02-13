@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dhkge0qhtc12v"
-path="res://.godot/imported/building-windows-sills-round.fbx-7409a5ca1403c2b4aeef22afc12ffcc8.scn"
+path="res://.godot/imported/building-windows-sills-round.fbx-c7b4c2d6df833c8d51f6f6a4e0776f88.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-windows-sills-round.fbx"
-dest_files=["res://.godot/imported/building-windows-sills-round.fbx-7409a5ca1403c2b4aeef22afc12ffcc8.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-windows-sills-round.fbx"
+dest_files=["res://.godot/imported/building-windows-sills-round.fbx-c7b4c2d6df833c8d51f6f6a4e0776f88.scn"]
 
 [params]
 

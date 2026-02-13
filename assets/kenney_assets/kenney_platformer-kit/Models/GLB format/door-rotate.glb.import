@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ecja3urvpr46"
-path="res://.godot/imported/door-rotate.glb-3064c8a5b1a082a627b5601fe61678b0.scn"
+path="res://.godot/imported/door-rotate.glb-e270cf34ec05630168d1767f0ebda97d.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/door-rotate.glb"
-dest_files=["res://.godot/imported/door-rotate.glb-3064c8a5b1a082a627b5601fe61678b0.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/door-rotate.glb"
+dest_files=["res://.godot/imported/door-rotate.glb-e270cf34ec05630168d1767f0ebda97d.scn"]
 
 [params]
 

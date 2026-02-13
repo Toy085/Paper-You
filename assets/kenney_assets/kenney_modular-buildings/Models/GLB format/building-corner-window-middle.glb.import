@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dxdmo1cngyn3v"
-path="res://.godot/imported/building-corner-window-middle.glb-4887ec0bf6bec36c9fdc600697d24a48.scn"
+path="res://.godot/imported/building-corner-window-middle.glb-5d91b3a70bd4cf21935f5f2260318139.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/GLB format/building-corner-window-middle.glb"
-dest_files=["res://.godot/imported/building-corner-window-middle.glb-4887ec0bf6bec36c9fdc600697d24a48.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/GLB format/building-corner-window-middle.glb"
+dest_files=["res://.godot/imported/building-corner-window-middle.glb-5d91b3a70bd4cf21935f5f2260318139.scn"]
 
 [params]
 

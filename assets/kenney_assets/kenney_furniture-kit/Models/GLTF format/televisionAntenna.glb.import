@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cv5yp3sco6g8g"
-path="res://.godot/imported/televisionAntenna.glb-67a66fb1524e895b5be97d7da18058c7.scn"
+path="res://.godot/imported/televisionAntenna.glb-6935e1dbd6947767361f053d1af7a270.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/televisionAntenna.glb"
-dest_files=["res://.godot/imported/televisionAntenna.glb-67a66fb1524e895b5be97d7da18058c7.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/televisionAntenna.glb"
+dest_files=["res://.godot/imported/televisionAntenna.glb-6935e1dbd6947767361f053d1af7a270.scn"]
 
 [params]
 

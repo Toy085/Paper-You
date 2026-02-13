@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dbd387gab3ust"
-path="res://.godot/imported/plating.fbx-2f33efb6a38be0127a13559844376caf.scn"
+path="res://.godot/imported/plating.fbx-2bea622e17490515b4c6ef7d9a251a3b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/plating.fbx"
-dest_files=["res://.godot/imported/plating.fbx-2f33efb6a38be0127a13559844376caf.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/plating.fbx"
+dest_files=["res://.godot/imported/plating.fbx-2bea622e17490515b4c6ef7d9a251a3b.scn"]
 
 [params]
 

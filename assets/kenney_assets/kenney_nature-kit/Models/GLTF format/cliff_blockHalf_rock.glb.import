@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dosghyvnpc8xt"
-path="res://.godot/imported/cliff_blockHalf_rock.glb-57f52a072032697fca6d6f81dec197fc.scn"
+path="res://.godot/imported/cliff_blockHalf_rock.glb-84693b04b84852c468f22519fa6925a7.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/cliff_blockHalf_rock.glb"
-dest_files=["res://.godot/imported/cliff_blockHalf_rock.glb-57f52a072032697fca6d6f81dec197fc.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/cliff_blockHalf_rock.glb"
+dest_files=["res://.godot/imported/cliff_blockHalf_rock.glb-84693b04b84852c468f22519fa6925a7.scn"]
 
 [params]
 

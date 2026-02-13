@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://41e4jeg1f8q"
-path="res://.godot/imported/rugSquare.glb-825331043d0819004b075bb8ba0ee87e.scn"
+path="res://.godot/imported/rugSquare.glb-4684d2ccf89ab2d5607687d0d3a18485.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/rugSquare.glb"
-dest_files=["res://.godot/imported/rugSquare.glb-825331043d0819004b075bb8ba0ee87e.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/rugSquare.glb"
+dest_files=["res://.godot/imported/rugSquare.glb-4684d2ccf89ab2d5607687d0d3a18485.scn"]
 
 [params]
 

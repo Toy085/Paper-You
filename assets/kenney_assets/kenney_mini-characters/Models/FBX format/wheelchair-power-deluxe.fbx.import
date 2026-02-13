@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwj34gtncc7ot"
-path="res://.godot/imported/wheelchair-power-deluxe.fbx-f53a33fd6c36d5d8d2793e71230e87c9.scn"
+path="res://.godot/imported/wheelchair-power-deluxe.fbx-7d765c2ac499fecaf8d0054738a313d6.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/FBX format/wheelchair-power-deluxe.fbx"
-dest_files=["res://.godot/imported/wheelchair-power-deluxe.fbx-f53a33fd6c36d5d8d2793e71230e87c9.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/wheelchair-power-deluxe.fbx"
+dest_files=["res://.godot/imported/wheelchair-power-deluxe.fbx-7d765c2ac499fecaf8d0054738a313d6.scn"]
 
 [params]
 

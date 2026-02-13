@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://lqkxuismtw6d"
-path="res://.godot/imported/building-door.fbx-e24e030471a478015d97aea6bf35eda2.scn"
+path="res://.godot/imported/building-door.fbx-2ea9083e823d8f9301b7c03c0ca5fd22.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/building-door.fbx"
-dest_files=["res://.godot/imported/building-door.fbx-e24e030471a478015d97aea6bf35eda2.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/building-door.fbx"
+dest_files=["res://.godot/imported/building-door.fbx-2ea9083e823d8f9301b7c03c0ca5fd22.scn"]
 
 [params]
 

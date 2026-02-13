@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://chc8qoqj4o6ce"
-path="res://.godot/imported/statue_head.glb-43cb3a4a718a72bcd5319e6eb9a9b719.scn"
+path="res://.godot/imported/statue_head.glb-9faf58d22150504ef03f91e352218203.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/statue_head.glb"
-dest_files=["res://.godot/imported/statue_head.glb-43cb3a4a718a72bcd5319e6eb9a9b719.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/statue_head.glb"
+dest_files=["res://.godot/imported/statue_head.glb-9faf58d22150504ef03f91e352218203.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://nv0ch8jpv2i2"
-path="res://.godot/imported/platform_beach.glb-36a4eec35fd14ab23e55cbbb53660df6.scn"
+path="res://.godot/imported/platform_beach.glb-7888b14139b2c929a2c50029a0256f63.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/platform_beach.glb"
-dest_files=["res://.godot/imported/platform_beach.glb-36a4eec35fd14ab23e55cbbb53660df6.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/platform_beach.glb"
+dest_files=["res://.godot/imported/platform_beach.glb-7888b14139b2c929a2c50029a0256f63.scn"]
 
 [params]
 

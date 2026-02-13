@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://blgrivw0qqu1v"
-path="res://.godot/imported/tree_plateau_fall.glb-5f01e1d0907b495d515ef7643440351c.scn"
+path="res://.godot/imported/tree_plateau_fall.glb-5f02f81d76b64b03f73dfc84fa0c0ff1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/tree_plateau_fall.glb"
-dest_files=["res://.godot/imported/tree_plateau_fall.glb-5f01e1d0907b495d515ef7643440351c.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/tree_plateau_fall.glb"
+dest_files=["res://.godot/imported/tree_plateau_fall.glb-5f02f81d76b64b03f73dfc84fa0c0ff1.scn"]
 
 [params]
 

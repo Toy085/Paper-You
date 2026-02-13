@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bm10ii2ejovmb"
-path="res://.godot/imported/plant_flatTall.glb-3fc023589540b5b68cd3cf7b08ab2923.scn"
+path="res://.godot/imported/plant_flatTall.glb-a874704f2a457e5d37ad2ea10c01a290.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/plant_flatTall.glb"
-dest_files=["res://.godot/imported/plant_flatTall.glb-3fc023589540b5b68cd3cf7b08ab2923.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/plant_flatTall.glb"
+dest_files=["res://.godot/imported/plant_flatTall.glb-a874704f2a457e5d37ad2ea10c01a290.scn"]
 
 [params]
 

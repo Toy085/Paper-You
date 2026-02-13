@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dxo7rxdk8ccqp"
-path="res://.godot/imported/lampRoundFloor.glb-7ad7447b96b0ae63a7b14556711fa33f.scn"
+path="res://.godot/imported/lampRoundFloor.glb-ad56ca823f13bce1518d4888c8c0acf1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/lampRoundFloor.glb"
-dest_files=["res://.godot/imported/lampRoundFloor.glb-7ad7447b96b0ae63a7b14556711fa33f.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/lampRoundFloor.glb"
+dest_files=["res://.godot/imported/lampRoundFloor.glb-ad56ca823f13bce1518d4888c8c0acf1.scn"]
 
 [params]
 

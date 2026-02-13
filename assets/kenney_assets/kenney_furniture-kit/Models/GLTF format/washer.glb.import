@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqdd07pgeo0ex"
-path="res://.godot/imported/washer.glb-d5006e23af676c0ae10527d2f67f10db.scn"
+path="res://.godot/imported/washer.glb-a17dba1d016900826c178a88762680ea.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/washer.glb"
-dest_files=["res://.godot/imported/washer.glb-d5006e23af676c0ae10527d2f67f10db.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/washer.glb"
+dest_files=["res://.godot/imported/washer.glb-a17dba1d016900826c178a88762680ea.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b441gq6yfiivx"
-path="res://.godot/imported/roof-slanted-corner-a.fbx-8c67a437991ac5380d6a356ea2791534.scn"
+path="res://.godot/imported/roof-slanted-corner-a.fbx-85a5be04f9604c101ef8e760cdc5c9e1.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-slanted-corner-a.fbx"
-dest_files=["res://.godot/imported/roof-slanted-corner-a.fbx-8c67a437991ac5380d6a356ea2791534.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/roof-slanted-corner-a.fbx"
+dest_files=["res://.godot/imported/roof-slanted-corner-a.fbx-85a5be04f9604c101ef8e760cdc5c9e1.scn"]
 
 [params]
 

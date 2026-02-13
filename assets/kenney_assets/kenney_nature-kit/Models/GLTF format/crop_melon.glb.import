@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c33340qr6au8u"
-path="res://.godot/imported/crop_melon.glb-f726279cfd9c4cf52bb88dbac4b4d66b.scn"
+path="res://.godot/imported/crop_melon.glb-d01be9ed13c6ab3872e42273fb927561.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crop_melon.glb"
-dest_files=["res://.godot/imported/crop_melon.glb-f726279cfd9c4cf52bb88dbac4b4d66b.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/crop_melon.glb"
+dest_files=["res://.godot/imported/crop_melon.glb-d01be9ed13c6ab3872e42273fb927561.scn"]
 
 [params]
 

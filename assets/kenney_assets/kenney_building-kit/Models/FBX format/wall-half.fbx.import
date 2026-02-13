@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bsmbxen5en3y3"
-path="res://.godot/imported/wall-half.fbx-edf7d81a250810b2bff96c1480a2e20c.scn"
+path="res://.godot/imported/wall-half.fbx-24d325952e1024521755dd80140a87f0.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/FBX format/wall-half.fbx"
-dest_files=["res://.godot/imported/wall-half.fbx-edf7d81a250810b2bff96c1480a2e20c.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/FBX format/wall-half.fbx"
+dest_files=["res://.godot/imported/wall-half.fbx-24d325952e1024521755dd80140a87f0.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dreleffhmb5mn"
-path="res://.godot/imported/aid-cane-low-vision.glb-af5b463ab5ffbb661c33a62cb7edac30.scn"
+path="res://.godot/imported/aid-cane-low-vision.glb-2ed8e578c7559f423c02990273a5e0ad.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/GLB format/aid-cane-low-vision.glb"
-dest_files=["res://.godot/imported/aid-cane-low-vision.glb-af5b463ab5ffbb661c33a62cb7edac30.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/GLB format/aid-cane-low-vision.glb"
+dest_files=["res://.godot/imported/aid-cane-low-vision.glb-2ed8e578c7559f423c02990273a5e0ad.scn"]
 
 [params]
 

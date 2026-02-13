@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cmf684d8vrvor"
-path="res://.godot/imported/roof-flat-border-side.fbx-b5417963dc1553d20851837360b37496.scn"
+path="res://.godot/imported/roof-flat-border-side.fbx-7665e28145d238a5e35c77e044be21cf.scn"
 
 [deps]
 
-source_file="res://assets/kenney_modular-buildings/Models/FBX format/roof-flat-border-side.fbx"
-dest_files=["res://.godot/imported/roof-flat-border-side.fbx-b5417963dc1553d20851837360b37496.scn"]
+source_file="res://assets/kenney_assets/kenney_modular-buildings/Models/FBX format/roof-flat-border-side.fbx"
+dest_files=["res://.godot/imported/roof-flat-border-side.fbx-7665e28145d238a5e35c77e044be21cf.scn"]
 
 [params]
 

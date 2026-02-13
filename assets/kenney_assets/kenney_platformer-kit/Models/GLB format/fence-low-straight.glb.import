@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6nfbfeu46fn3"
-path="res://.godot/imported/fence-low-straight.glb-f96dd24e8f47355a435b0680a39f8cfe.scn"
+path="res://.godot/imported/fence-low-straight.glb-a0b387fa978cd7e2c40002d09b4e9c9e.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/GLB format/fence-low-straight.glb"
-dest_files=["res://.godot/imported/fence-low-straight.glb-f96dd24e8f47355a435b0680a39f8cfe.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/GLB format/fence-low-straight.glb"
+dest_files=["res://.godot/imported/fence-low-straight.glb-a0b387fa978cd7e2c40002d09b4e9c9e.scn"]
 
 [params]
 

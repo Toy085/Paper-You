@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dnisphv77d22h"
-path="res://.godot/imported/crop_carrot.glb-3a62fedeecb99b6c5973334ed0fdf292.scn"
+path="res://.godot/imported/crop_carrot.glb-68302696a256bbd74f2fb5b46f067139.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/crop_carrot.glb"
-dest_files=["res://.godot/imported/crop_carrot.glb-3a62fedeecb99b6c5973334ed0fdf292.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/crop_carrot.glb"
+dest_files=["res://.godot/imported/crop_carrot.glb-68302696a256bbd74f2fb5b46f067139.scn"]
 
 [params]
 

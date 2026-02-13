@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cwb8lia3ulwu2"
-path="res://.godot/imported/block-snow-large-slope.fbx-8ec2c8964ead89463930354e854e87fe.scn"
+path="res://.godot/imported/block-snow-large-slope.fbx-f3d29ea5bae8c3cea0d677d78220956c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_platformer-kit/Models/FBX format/block-snow-large-slope.fbx"
-dest_files=["res://.godot/imported/block-snow-large-slope.fbx-8ec2c8964ead89463930354e854e87fe.scn"]
+source_file="res://assets/kenney_assets/kenney_platformer-kit/Models/FBX format/block-snow-large-slope.fbx"
+dest_files=["res://.godot/imported/block-snow-large-slope.fbx-f3d29ea5bae8c3cea0d677d78220956c.scn"]
 
 [params]
 

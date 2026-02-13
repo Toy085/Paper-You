@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bghw6hxo3lu3u"
-path="res://.godot/imported/campfire_logs.glb-cd5c512166e7deac396d6e4c78f6d91f.scn"
+path="res://.godot/imported/campfire_logs.glb-7e8d9c4f1fb43643f57aae53d247fc57.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/campfire_logs.glb"
-dest_files=["res://.godot/imported/campfire_logs.glb-cd5c512166e7deac396d6e4c78f6d91f.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/campfire_logs.glb"
+dest_files=["res://.godot/imported/campfire_logs.glb-7e8d9c4f1fb43643f57aae53d247fc57.scn"]
 
 [params]
 

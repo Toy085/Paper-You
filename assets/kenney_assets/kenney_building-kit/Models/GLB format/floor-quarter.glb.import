@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqfe6vl5ymai"
-path="res://.godot/imported/floor-quarter.glb-63b1e0c6a4bef950cd5baf809b21ade9.scn"
+path="res://.godot/imported/floor-quarter.glb-3c14de195212122980a8ee68ecd72d8c.scn"
 
 [deps]
 
-source_file="res://assets/kenney_building-kit/Models/GLB format/floor-quarter.glb"
-dest_files=["res://.godot/imported/floor-quarter.glb-63b1e0c6a4bef950cd5baf809b21ade9.scn"]
+source_file="res://assets/kenney_assets/kenney_building-kit/Models/GLB format/floor-quarter.glb"
+dest_files=["res://.godot/imported/floor-quarter.glb-3c14de195212122980a8ee68ecd72d8c.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://develr4hbpw0i"
-path="res://.godot/imported/kitchenFridgeBuiltIn.glb-6b19ea09099fcb5fa0ae9bbc1539e969.scn"
+path="res://.godot/imported/kitchenFridgeBuiltIn.glb-71bbd171d21e1ae2d174110fd5b1df4a.scn"
 
 [deps]
 
-source_file="res://assets/kenney_furniture-kit/Models/GLTF format/kitchenFridgeBuiltIn.glb"
-dest_files=["res://.godot/imported/kitchenFridgeBuiltIn.glb-6b19ea09099fcb5fa0ae9bbc1539e969.scn"]
+source_file="res://assets/kenney_assets/kenney_furniture-kit/Models/GLTF format/kitchenFridgeBuiltIn.glb"
+dest_files=["res://.godot/imported/kitchenFridgeBuiltIn.glb-71bbd171d21e1ae2d174110fd5b1df4a.scn"]
 
 [params]
 

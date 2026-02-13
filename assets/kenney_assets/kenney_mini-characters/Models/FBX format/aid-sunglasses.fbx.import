@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dctm7fyew6r0l"
-path="res://.godot/imported/aid-sunglasses.fbx-81cbb53fe0bd3f786e85e8fb266e4754.scn"
+path="res://.godot/imported/aid-sunglasses.fbx-c1d26b117ae0315d3937e8b98e1736bf.scn"
 
 [deps]
 
-source_file="res://assets/kenney_mini-characters/Models/FBX format/aid-sunglasses.fbx"
-dest_files=["res://.godot/imported/aid-sunglasses.fbx-81cbb53fe0bd3f786e85e8fb266e4754.scn"]
+source_file="res://assets/kenney_assets/kenney_mini-characters/Models/FBX format/aid-sunglasses.fbx"
+dest_files=["res://.godot/imported/aid-sunglasses.fbx-c1d26b117ae0315d3937e8b98e1736bf.scn"]
 
 [params]
 

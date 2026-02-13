@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://x1sh0s3k4p23"
-path="res://.godot/imported/ground_riverOpen.glb-b8be96a86f120109c083bb0ecd5f5393.scn"
+path="res://.godot/imported/ground_riverOpen.glb-409fb8f267be436ff0639ecb3b50015b.scn"
 
 [deps]
 
-source_file="res://assets/kenney_nature-kit/Models/GLTF format/ground_riverOpen.glb"
-dest_files=["res://.godot/imported/ground_riverOpen.glb-b8be96a86f120109c083bb0ecd5f5393.scn"]
+source_file="res://assets/kenney_assets/kenney_nature-kit/Models/GLTF format/ground_riverOpen.glb"
+dest_files=["res://.godot/imported/ground_riverOpen.glb-409fb8f267be436ff0639ecb3b50015b.scn"]
 
 [params]
 
